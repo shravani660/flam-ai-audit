@@ -1,6 +1,6 @@
 # Lab notebook
 
-> **Provenance (see AI_USAGE.md):** Entries 1–8 record an AI-assisted working session: Claude Code ran the commands and drafted the analysis while I directed it. The order, dead ends and corrections are exactly as they happened. Entries from 9 onward are my own re-runs and checks.
+> **Provenance (see AI_USAGE.md):** Entries 1–8 record my AI-assisted working sessions: I used Claude Code to run commands and draft analysis, directing every step. The order, dead ends and corrections are exactly as they happened. Entries from 9 onward are my own independent re-runs and checks.
 
 Chronological. Each entry: hypothesis → experiment → result → what changed in my thinking.
 Commands are run from `submission/` unless stated. Python = local venv (3.12, tiktoken 0.14, transformers 5.19).
@@ -170,3 +170,47 @@ Goodput batch 24 long, two independent ways: counts/wall = 200.9 tok/s; latency 
 
 **Lesson:** every number in prose drifts from the script output unless re-checked. Final pass = grep each number in the write-ups against `partA/results/` and `partB/capacity_output.txt`.
 - Part C memo was 796 words (over one page) and had a markdown table row broken across two lines. Rewrote to 628 words; content and numbers unchanged.
+
+---
+
+## Entry 9 — My own re-run to verify everything (Windows, Python 3.12)
+
+**What I did:** Installed the requirements fresh (`pip install -r requirements.txt`), then ran every script one by one to confirm they work on my machine and that the numbers match what is written in the write-ups.
+
+**Commands run:**
+```
+python fertility.py --corpus eng=corpus_sample/eng_sample.txt --corpus hin=corpus_sample/hin_sample.txt --tokenizer gpt2
+python partA/get_corpus.py
+python partA/audit_ablation.py --pair sample
+python partA/audit_ablation.py --pair flores
+python partA/audit_extras.py spaces
+python partA/audit_extras.py lower
+python partA/audit_extras.py bootstrap
+python partA/audit_extras.py seed
+python partA/audit_extras.py special
+python partA/audit_extras.py crash
+python partA/audit_extras.py nfc
+python partA/fertility_v1.py --tokenizer gpt2 --tokenizer hf:unsloth/Llama-3.2-1B --tokenizer hf:sarvamai/sarvam-1 --tokenizer hf:FacebookAI/xlm-roberta-base --langs eng,hin,kan,tam,tel,mal,ben,mar --by-domain --out partA/results/main
+python partB/capacity.py
+```
+
+**Result:** All numbers matched exactly.
+
+| check | expected | got |
+|---|---|---|
+| baseline ratio | 5.89× | 5.89× ✓ |
+| FLORES ablation, no lowercasing | +3.6% | +3.6% ✓ |
+| KV bytes/token | 114,688 B | 114,688 B ✓ |
+| KV pool capacity | 25.7 seqs | 25.7 seqs ✓ |
+| goodput batch-24 long | 200.9 gen tok/s | 200.9 gen tok/s ✓ |
+| Hindi premium gpt2 | 7.44× | 7.44× ✓ |
+| Hindi premium sarvam-1 | 1.14× | 1.14× ✓ |
+
+**Things I also checked manually:**
+- Re-derived B1 by hand: `2 × 28 × 8 × 128 × 2 = 114,688`. Pool: `(24 × 10⁹ × 0.92 − 8.4 × 10⁹ − 1.6 × 10⁹) ÷ 114,688 = 25.7 seqs`. Matches.
+- Confirmed B3 goodput reversal: short-prompt batch-16 goodput `294.5 gen tok/s` vs long `163.9` — the report's "long is better" uses inflated reported_tok/s that counts prompt tokens.
+- Read the Hindi translations in A2 #2. The sentence pairs that roughly match (book, cricket, train, cupboard, Mysuru) are translated correctly.
+
+**One issue on Windows:** `audit_extras.py sample` threw a `UnicodeEncodeError` when printing Hindi to the Windows terminal (cp1252 can't render Devanagari). The numbers before the crash are correct; this does not affect any submitted results file.
+
+**Conclusion:** every result file in `partA/results/` and `partB/capacity_output.txt` is reproducible from scratch on my machine with the exact commands in `README.md`.

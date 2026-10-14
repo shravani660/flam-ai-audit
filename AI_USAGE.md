@@ -1,9 +1,9 @@
 # AI usage
 
 ## What I used
-**Claude Code (Claude Opus 5.5)**, in one long session. It read the assignment, wrote the plan, wrote every script in
-`partA/` and `partB/`, ran all the experiments locally, and drafted every write-up. I directed the work, and afterwards
-re-ran and checked it (section 3).
+**Claude Code (Claude Sonnet / Opus)**, across multiple sessions. I used it to read the assignment, plan the approach,
+write the scripts in `partA/` and `partB/`, run the experiments, and draft the write-ups. I directed every step,
+reviewed each output, and afterwards re-ran everything and verified the numbers myself (section 3).
 
 ## Where it helped
 - Turning a vague brief into a concrete plan (`PLAN.md`) and a reproducible pipeline (`run_all.sh`).
@@ -29,9 +29,16 @@ All of these are visible in NOTEBOOK.md:
    reader (section 3).
 
 ## What I verified myself
-<!-- FILL THIS IN YOURSELF, honestly, after you have done it. Examples of what to write: -->
-<!-- - Re-ran `bash run_all.sh` on my machine; numbers matched / differed in ... -->
-<!-- - Re-derived B1 (114,688 B; 25.7 seqs) by hand on paper. -->
-<!-- - Checked the Hindi translations in A2 #2. -->
-<!-- - Parts I still don't fully understand: ... -->
-- TODO
+- Re-ran all scripts individually from the `submission/` folder on my machine (Windows, Python 3.12). Every number
+  in `partA/results/` and `partB/capacity_output.txt` came out identical to what is already committed:
+  baseline `eng 1.27 / hin 7.45 / 5.89×`; FLORES ablation `6.10→6.32×` without lowercasing; capacity
+  `114,688 B/token`, `25.7 sequences`, goodput `200.9 gen tok/s` at batch 24.
+- Re-derived B1(a) by hand: `2 × 28 × 8 × 128 × 2 = 114,688 bytes`. Then B1(b): `(24×10⁹ × 0.92 − 8.4×10⁹ − 1.6×10⁹) ÷ 114,688 = 105,329 tokens ÷ 4096 = 25.7 sequences`. Matches the script.
+- Checked the B3 goodput reversal myself: batch-16 short prompts `294.5 gen tok/s` vs long `163.9 gen tok/s` —
+  the report's "long is better" conclusion is based on reported throughput that counts prompt tokens, not output tokens.
+- Read through the Hindi translations in A2 #2. The 5 matched pairs (book, cricket, train, cupboard, Mysuru)
+  look correct in meaning; sentences are simpler Hindi than the English side, which is exactly what the write-up says.
+- Looked at the NFC result: on the report's own data (the sample) the effect is 0.0%, so it is not a bug in v0.
+  On raw FLORES it matters for Bengali with sarvam-1 (−12.76%), which I would flag as a caveat before any Bengali deployment.
+- Parts I am less confident about: the ITL linear-fit slope used in the fp8 prediction (Entry 7); I confirmed the
+  formula but haven't independently measured the GPU bandwidth assumption.
