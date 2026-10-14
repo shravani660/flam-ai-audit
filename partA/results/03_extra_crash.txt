@@ -1,0 +1,2 @@
+v0 exit code: 1
+v0 stderr (last line): To disable this check for all special tokens, pass `disallowed_special=()`.

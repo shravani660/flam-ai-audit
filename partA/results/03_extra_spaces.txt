@@ -1,0 +1,13 @@
+lang    split(" ") words  split() words  empty words  inflation
+ben                38399          38262          137     +0.36%
+eng                42856          42855            1     +0.00%
+hin                50265          50250           15     +0.03%
+kan                32599          31530         1069     +3.39%
+mal                29510          29307          203     +0.69%
+mar                37271          37111          160     +0.43%
+tam                33110          32909          201     +0.61%
+tel                33775          33326          449     +1.35%
+
+starter_kit sample:
+  eng_sample.txt: split(' ') 79  split() 78  -> 1 empty word(s)
+  hin_sample.txt: split(' ') 62  split() 61  -> 1 empty word(s)

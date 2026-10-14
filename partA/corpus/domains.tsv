@@ -1,0 +1,2010 @@
+line	split	domain	topic
+1	dev	wikinews	health
+2	dev	wikinews	health
+3	dev	wikinews	accident
+4	dev	wikinews	accident
+5	dev	wikinews	accident
+6	dev	wikinews	sports
+7	dev	wikinews	sports
+8	dev	wikinews	politics
+9	dev	wikinews	politics
+10	dev	wikinews	politics
+11	dev	wikinews	politics
+12	dev	wikinews	sports
+13	dev	wikinews	sports
+14	dev	wikinews	sports
+15	dev	wikinews	sports
+16	dev	wikinews	crime
+17	dev	wikinews	crime
+18	dev	wikinews	crime
+19	dev	wikinews	crime
+20	dev	wikinews	Politics and conflicts
+21	dev	wikinews	Politics and conflicts
+22	dev	wikinews	Politics and conflicts
+23	dev	wikinews	
+24	dev	wikinews	sports
+25	dev	wikinews	sports
+26	dev	wikinews	sports
+27	dev	wikinews	sports
+28	dev	wikinews	Television
+29	dev	wikinews	Television
+30	dev	wikinews	crime
+31	dev	wikinews	crime
+32	dev	wikinews	crime
+33	dev	wikinews	crime
+34	dev	wikinews	crime
+35	dev	wikinews	accident
+36	dev	wikinews	accident
+37	dev	wikinews	accident
+38	dev	wikinews	television
+39	dev	wikinews	television
+40	dev	wikinews	television
+41	dev	wikinews	television
+42	dev	wikinews	television
+43	dev	wikinews	disaster
+44	dev	wikinews	disaster
+45	dev	wikinews	disaster
+46	dev	wikinews	culture
+47	dev	wikinews	culture
+48	dev	wikinews	Sports
+49	dev	wikinews	Sports
+50	dev	wikinews	Sports
+51	dev	wikinews	Crime and Law
+52	dev	wikinews	Crime and Law
+53	dev	wikinews	Crime and Law
+54	dev	wikinews	Crime and Law
+55	dev	wikinews	Politics
+56	dev	wikinews	Politics
+57	dev	wikinews	Politics
+58	dev	wikinews	Crime and Law
+59	dev	wikinews	Crime and Law
+60	dev	wikinews	Crime and Law
+61	dev	wikinews	Economy and business
+62	dev	wikinews	Economy and business
+63	dev	wikinews	Crime and Law
+64	dev	wikinews	Crime and Law
+65	dev	wikinews	Crime and Law
+66	dev	wikinews	Crime and Law
+67	dev	wikinews	Crime and Law
+68	dev	wikinews	Crime and Law
+69	dev	wikinews	Crime and Law
+70	dev	wikinews	Crime and Law
+71	dev	wikinews	Crime and Law
+72	dev	wikinews	Crime and Law
+73	dev	wikinews	Crime and Law
+74	dev	wikinews	Crime and Law
+75	dev	wikinews	Crime and Law
+76	dev	wikinews	Politics
+77	dev	wikinews	Politics
+78	dev	wikinews	Politics
+79	dev	wikinews	Sport
+80	dev	wikinews	Sport
+81	dev	wikinews	Sport
+82	dev	wikinews	science
+83	dev	wikinews	science
+84	dev	wikinews	Science
+85	dev	wikinews	Weather
+86	dev	wikinews	Weather
+87	dev	wikinews	Weather
+88	dev	wikinews	Crime and law
+89	dev	wikinews	Crime and law
+90	dev	wikinews	Crime and law
+91	dev	wikinews	Crime and law
+92	dev	wikinews	Politics
+93	dev	wikinews	Politics
+94	dev	wikinews	Politics
+95	dev	wikinews	Tragety
+96	dev	wikinews	Tragety
+97	dev	wikinews	Tragety
+98	dev	wikinews	Tragety
+99	dev	wikinews	Disaster
+100	dev	wikinews	Disaster
+101	dev	wikinews	Disaster
+102	dev	wikinews	Disaster
+103	dev	wikinews	Disaster
+104	dev	wikinews	Politics
+105	dev	wikinews	Politics
+106	dev	wikinews	Politics
+107	dev	wikinews	Politics
+108	dev	wikinews	Science
+109	dev	wikinews	Science
+110	dev	wikinews	Science
+111	dev	wikinews	Science
+112	dev	wikinews	Science
+113	dev	wikinews	climate
+114	dev	wikinews	climate
+115	dev	wikinews	Science and technology
+116	dev	wikinews	Science and technology
+117	dev	wikinews	Science and technology
+118	dev	wikinews	Science and technology
+119	dev	wikinews	Culture and entertainment
+120	dev	wikinews	Culture and entertainment
+121	dev	wikinews	Politics and conflicts
+122	dev	wikinews	Politics and conflicts
+123	dev	wikinews	Politics and conflicts
+124	dev	wikinews	Politics and conflicts
+125	dev	wikinews	entertainment
+126	dev	wikinews	entertainment
+127	dev	wikinews	entertainment
+128	dev	wikinews	entertainment
+129	dev	wikinews	entertainment
+130	dev	wikinews	entertainment
+131	dev	wikinews	politics
+132	dev	wikinews	politics
+133	dev	wikinews	crime
+134	dev	wikinews	crime
+135	dev	wikinews	environment
+136	dev	wikinews	environment
+137	dev	wikinews	environment
+138	dev	wikinews	environment
+139	dev	wikinews	environment
+140	dev	wikinews	environment
+141	dev	wikinews	environment
+142	dev	wikinews	sport
+143	dev	wikinews	sport
+144	dev	wikinews	science
+145	dev	wikinews	science
+146	dev	wikinews	business
+147	dev	wikinews	business
+148	dev	wikinews	business
+149	dev	wikinews	business
+150	dev	wikinews	business
+151	dev	wikinews	business
+152	dev	wikinews	business
+153	dev	wikinews	business
+154	dev	wikinews	Science
+155	dev	wikinews	Science
+156	dev	wikinews	Science
+157	dev	wikinews	Science
+158	dev	wikinews	Sport
+159	dev	wikinews	Sport
+160	dev	wikinews	Sport
+161	dev	wikinews	Sport
+162	dev	wikinews	Accident
+163	dev	wikinews	Accident
+164	dev	wikinews	Accident
+165	dev	wikinews	Accident
+166	dev	wikinews	Law and crime
+167	dev	wikinews	Law and crime
+168	dev	wikinews	Law and crime
+169	dev	wikinews	Politics
+170	dev	wikinews	Politics
+171	dev	wikinews	Politics
+172	dev	wikinews	Politics
+173	dev	wikinews	Discovery
+174	dev	wikinews	Discovery
+175	dev	wikinews	Discovery
+176	dev	wikinews	
+177	dev	wikinews	Law and crime
+178	dev	wikinews	Law and crime
+179	dev	wikinews	Law and crime
+180	dev	wikinews	Law and crime
+181	dev	wikinews	Law and crime
+182	dev	wikinews	Health
+183	dev	wikinews	Health
+184	dev	wikinews	Health
+185	dev	wikinews	Sports
+186	dev	wikinews	Sports
+187	dev	wikinews	Disasters and accidents
+188	dev	wikinews	Disasters and accidents
+189	dev	wikinews	Disasters and accidents
+190	dev	wikinews	Disasters and accidents
+191	dev	wikinews	Culture and entertainment
+192	dev	wikinews	Culture and entertainment
+193	dev	wikinews	Culture and entertainment
+194	dev	wikinews	Sports
+195	dev	wikinews	Sports
+196	dev	wikinews	Sports
+197	dev	wikinews	Disease
+198	dev	wikinews	Disease
+199	dev	wikinews	Disease
+200	dev	wikinews	Disease
+201	dev	wikinews	Weather
+202	dev	wikinews	Weather
+203	dev	wikinews	Weather
+204	dev	wikinews	Weather
+205	dev	wikinews	Disasters and accidents
+206	dev	wikinews	Disasters and accidents
+207	dev	wikinews	Disasters and accidents
+208	dev	wikinews	Disasters and accidents
+209	dev	wikinews	Disasters and accidents
+210	dev	wikinews	Disasters and accidents
+211	dev	wikinews	Disasters and accidents
+212	dev	wikinews	Disasters and accidents
+213	dev	wikinews	Disasters and accidents
+214	dev	wikinews	Disasters and accidents
+215	dev	wikinews	Sports
+216	dev	wikinews	Sports
+217	dev	wikinews	Sports
+218	dev	wikinews	Sports
+219	dev	wikinews	Sports
+220	dev	wikinews	Sports
+221	dev	wikinews	Sports
+222	dev	wikinews	Crime and law
+223	dev	wikinews	Crime and law
+224	dev	wikinews	Crime and law
+225	dev	wikinews	Crime and law
+226	dev	wikinews	Science and technology
+227	dev	wikinews	Science and technology
+228	dev	wikinews	Science and technology
+229	dev	wikinews	Science and technology
+230	dev	wikinews	Science and technology
+231	dev	wikinews	Crime and law
+232	dev	wikinews	Crime and law
+233	dev	wikinews	Crime and law
+234	dev	wikinews	health
+235	dev	wikinews	health
+236	dev	wikinews	health
+237	dev	wikinews	Science and technology
+238	dev	wikinews	Science and technology
+239	dev	wikinews	science and technology
+240	dev	wikinews	crime and law
+241	dev	wikinews	crime and law
+242	dev	wikinews	science and technology
+243	dev	wikinews	science and technology
+244	dev	wikinews	crime and law
+245	dev	wikinews	crime and law
+246	dev	wikinews	crime and law
+247	dev	wikinews	politics
+248	dev	wikinews	politics
+249	dev	wikinews	accidents
+250	dev	wikinews	accidents
+251	dev	wikinews	accidents
+252	dev	wikinews	accidents
+253	dev	wikinews	science and technology
+254	dev	wikinews	science and technology
+255	dev	wikinews	science and technology
+256	dev	wikinews	science and technology
+257	dev	wikinews	crime and law
+258	dev	wikinews	crime and law
+259	dev	wikinews	crime and law
+260	dev	wikinews	crime and law
+261	dev	wikinews	crime and law
+262	dev	wikinews	politics
+263	dev	wikinews	politics
+264	dev	wikinews	politics
+265	dev	wikinews	science and technology
+266	dev	wikinews	science and technology
+267	dev	wikinews	science and technology
+268	dev	wikinews	crime and law
+269	dev	wikinews	crime and law
+270	dev	wikinews	sports
+271	dev	wikinews	sports
+272	dev	wikinews	health
+273	dev	wikinews	health
+274	dev	wikinews	health
+275	dev	wikinews	Society
+276	dev	wikinews	Society
+277	dev	wikinews	Society
+278	dev	wikinews	Politics
+279	dev	wikinews	Politics
+280	dev	wikinews	Politics
+281	dev	wikinews	Politics
+282	dev	wikinews	Politics
+283	dev	wikinews	Politics
+284	dev	wikinews	Politics
+285	dev	wikinews	Politics
+286	dev	wikinews	Politics
+287	dev	wikinews	Crime
+288	dev	wikinews	Crime
+289	dev	wikinews	Crime
+290	dev	wikinews	Science
+291	dev	wikinews	Science
+292	dev	wikinews	Science
+293	dev	wikinews	Science
+294	dev	wikinews	Science
+295	dev	wikinews	Environment
+296	dev	wikinews	Environment
+297	dev	wikinews	Environment
+298	dev	wikinews	Law
+299	dev	wikinews	Law
+300	dev	wikinews	Law
+301	dev	wikinews	Law
+302	dev	wikinews	entertrainment
+303	dev	wikinews	entertrainment
+304	dev	wikinews	entertrainment
+305	dev	wikinews	entertrainment
+306	dev	wikinews	Sports
+307	dev	wikinews	Sports
+308	dev	wikinews	Sports
+309	dev	wikinews	Sports
+310	dev	wikinews	Disasters and accidents
+311	dev	wikinews	Disasters and accidents
+312	dev	wikinews	Disasters and accidents
+313	dev	wikinews	Disasters and accidents
+314	dev	wikinews	Crime and law
+315	dev	wikinews	Crime and law
+316	dev	wikinews	Crime and law
+317	dev	wikinews	Crime and law
+318	dev	wikinews	Crime and law
+319	dev	wikinews	Economy and business
+320	dev	wikinews	Economy and business
+321	dev	wikinews	Economy and business
+322	dev	wikinews	Economy and business
+323	dev	wikinews	Economy and business
+324	dev	wikinews	Disasters and accidents
+325	dev	wikinews	Disasters and accidents
+326	dev	wikinews	Disasters and accidents
+327	dev	wikinews	Disasters and accidents
+328	dev	wikinews	Sports
+329	dev	wikinews	Sports
+330	dev	wikinews	Sports
+331	dev	wikinews	Sports
+332	dev	wikinews	Sports
+333	dev	wikinews	Sports
+334	dev	wikinews	Sports
+335	dev	wikinews	Sports
+336	dev	wikinews	Sports
+337	dev	wikinews	Sports
+338	dev	wikinews	Disasters and accidents
+339	dev	wikinews	Disasters and accidents
+340	dev	wikinews	Disasters and accidents
+341	dev	wikinews	Disasters and accidents
+342	dev	wikinews	politics
+343	dev	wikinews	politics
+344	dev	wikinews	entertrainment
+345	dev	wikinews	entertrainment
+346	dev	wikinews	accident
+347	dev	wikinews	accident
+348	dev	wikinews	accident
+349	dev	wikibooks	elements, hydrogen
+350	dev	wikibooks	elements, hydrogen
+351	dev	wikibooks	elements, hydrogen
+352	dev	wikibooks	science experiments, floating needle
+353	dev	wikibooks	science experiments, floating needle
+354	dev	wikibooks	science experiments, floating needle
+355	dev	wikibooks	how things work, ice skates
+356	dev	wikibooks	how things work, ice skates
+357	dev	wikibooks	how things work, ice skates
+358	dev	wikibooks	how things work, laser
+359	dev	wikibooks	how things work, laser
+360	dev	wikibooks	how things work, laser
+361	dev	wikibooks	how things work, laser
+362	dev	wikibooks	how things work, laser
+363	dev	wikibooks	how things work, lightbulb
+364	dev	wikibooks	how things work, lightbulb
+365	dev	wikibooks	how things work, lightbulb
+366	dev	wikibooks	how things work, lightbulb
+367	dev	wikibooks	biology, circulatory system
+368	dev	wikibooks	biology, circulatory system
+369	dev	wikibooks	dinosaurs, triceratops
+370	dev	wikibooks	dinosaurs, triceratops
+371	dev	wikibooks	dinosaurs, triceratops
+372	dev	wikibooks	dinosaurs, triceratops
+373	dev	wikibooks	dinosaurs, triceratops
+374	dev	wikibooks	solar system, jupiter, io
+375	dev	wikibooks	solar system, jupiter, io
+376	dev	wikibooks	solar system, sun
+377	dev	wikibooks	solar system, sun
+378	dev	wikibooks	solar system, sun
+379	dev	wikibooks	solar system, venus
+380	dev	wikibooks	solar system, venus
+381	dev	wikibooks	solar system, venus
+382	dev	wikibooks	Kings_and_Queens_of_England/The_Anglo-Saxons
+383	dev	wikibooks	Kings_and_Queens_of_England/The_Anglo-Saxons
+384	dev	wikibooks	Kings_and_Queens_of_England/The_Anglo-Saxons
+385	dev	wikibooks	Kings_and_Queens_of_England/The_Anglo-Saxons
+386	dev	wikibooks	Languages/Korean
+387	dev	wikibooks	Languages/Korean
+388	dev	wikibooks	Languages/Korean
+389	dev	wikibooks	Languages/Sanskrit
+390	dev	wikibooks	Languages/Sanskrit
+391	dev	wikibooks	Languages/Sanskrit
+392	dev	wikibooks	Languages/Sanskrit
+393	dev	wikibooks	World_War_II/Battle_of_Britain
+394	dev	wikibooks	World_War_II/Battle_of_Britain
+395	dev	wikibooks	World_War_II/Battle_of_Britain
+396	dev	wikibooks	World_War_II/Battle_of_Britain
+397	dev	wikibooks	World_War_II/Battleships
+398	dev	wikibooks	World_War_II/Battleships
+399	dev	wikibooks	World_War_II/Battleships
+400	dev	wikibooks	World_War_II/Battleships
+401	dev	wikibooks	World_War_II/Battleships
+402	dev	wikibooks	World_War_II/Submarines
+403	dev	wikibooks	World_War_II/Submarines
+404	dev	wikibooks	World_War_II/Submarines
+405	dev	wikibooks	World_War_II/Submarines
+406	dev	wikibooks	World_War_II/Submarines
+407	dev	wikibooks	Ancient_Civilizations/Egyptians
+408	dev	wikibooks	Ancient_Civilizations/Egyptians
+409	dev	wikibooks	Ancient_Civilizations/Egyptians
+410	dev	wikibooks	Ancient_Civilizations/Egyptians
+411	dev	wikibooks	Ancient_Civilizations/Assyrians
+412	dev	wikibooks	Ancient_Civilizations/Assyrians
+413	dev	wikibooks	Ancient_Civilizations/Assyrians
+414	dev	wikibooks	Ancient_Civilizations/Greeks
+415	dev	wikibooks	Ancient_Civilizations/Greeks
+416	dev	wikibooks	Ancient_Civilizations/Greeks
+417	dev	wikibooks	Languages/Hindi
+418	dev	wikibooks	Languages/Hindi
+419	dev	wikibooks	Languages/Hindi
+420	dev	wikibooks	Languages/Hindi
+421	dev	wikibooks	Languages/Estonian
+422	dev	wikibooks	Languages/Estonian
+423	dev	wikibooks	Languages/Estonian
+424	dev	wikibooks	Languages/Estonian
+425	dev	wikibooks	Kings_and_Queens_of_England/Future_monarchs
+426	dev	wikibooks	Kings_and_Queens_of_England/Future_monarchs
+427	dev	wikibooks	Kings_and_Queens_of_England/Future_monarchs
+428	dev	wikibooks	Geography, Turkey
+429	dev	wikibooks	Geography, Turkey
+430	dev	wikibooks	Geography, Turkey
+431	dev	wikibooks	Geography, Turkey
+432	dev	wikibooks	Geography, Turkey
+433	dev	wikibooks	Geography, Luxembourg
+434	dev	wikibooks	Geography, Luxembourg
+435	dev	wikibooks	Geography, Luxembourg
+436	dev	wikibooks	Geography, Luxembourg
+437	dev	wikibooks	Geography, Bhutan
+438	dev	wikibooks	Geography, Bhutan
+439	dev	wikibooks	Geography, Bhutan
+440	dev	wikibooks	Geography, Bhutan
+441	dev	wikibooks	Geography, Cambodia
+442	dev	wikibooks	Geography, Cambodia
+443	dev	wikibooks	Geography, Cambodia
+444	dev	wikibooks	Geography, Venezuela
+445	dev	wikibooks	Geography, Venezuela
+446	dev	wikibooks	Geography, Venezuela
+447	dev	wikibooks	World Heritage, Botanic Gardens
+448	dev	wikibooks	World Heritage, Botanic Gardens
+449	dev	wikibooks	World Heritage, Serengeti
+450	dev	wikibooks	World Heritage, Serengeti
+451	dev	wikibooks	World Heritage, Serengeti
+452	dev	wikibooks	advanced interactive media
+453	dev	wikibooks	advanced interactive media
+454	dev	wikibooks	advanced interactive media
+455	dev	wikibooks	modern photography/lenses
+456	dev	wikibooks	modern photography/lenses
+457	dev	wikibooks	modern photography/lenses
+458	dev	wikibooks	modern photography/lenses
+459	dev	wikibooks	modern photography/lenses
+460	dev	wikibooks	video/dvd
+461	dev	wikibooks	video/dvd
+462	dev	wikibooks	video/dvd
+463	dev	wikibooks	video/dvd
+464	dev	wikibooks	video/dvd
+465	dev	wikibooks	castles of english/development of castles
+466	dev	wikibooks	castles of english/development of castles
+467	dev	wikibooks	castles of english/development of castles
+468	dev	wikibooks	castles of england/tudor castles
+469	dev	wikibooks	castles of england/tudor castles
+470	dev	wikibooks	castles of england/tudor castles
+471	dev	wikibooks	european history/absolutism in europe
+472	dev	wikibooks	european history/absolutism in europe
+473	dev	wikibooks	european history/absolutism in europe
+474	dev	wikibooks	european history/absolutism in europe
+475	dev	wikibooks	seven wonders of the world/temple of artemis
+476	dev	wikibooks	seven wonders of the world/temple of artemis
+477	dev	wikibooks	seven wonders of the world/temple of artemis
+478	dev	wikibooks	seven wonders of the world/temple of artemis
+479	dev	wikibooks	accordion/right hand
+480	dev	wikibooks	accordion/right hand
+481	dev	wikibooks	accordion/right hand
+482	dev	wikibooks	mysticism/what is mysticism
+483	dev	wikibooks	mysticism/what is mysticism
+484	dev	wikibooks	mysticism/what is mysticism
+485	dev	wikibooks	mysticism/what is mysticism
+486	dev	wikibooks	Sikhism
+487	dev	wikibooks	Sikhism
+488	dev	wikibooks	Sikhism
+489	dev	wikibooks	Sikhism
+490	dev	wikibooks	cold war/hungarian revolution
+491	dev	wikibooks	cold war/hungarian revolution
+492	dev	wikibooks	pakistani history
+493	dev	wikibooks	pakistani history
+494	dev	wikibooks	pakistani history
+495	dev	wikibooks	roman culture/medicine
+496	dev	wikibooks	roman culture/medicine
+497	dev	wikibooks	roman culture/medicine
+498	dev	wikibooks	roman culture/medicine
+499	dev	wikibooks	roman culture/medicine
+500	dev	wikibooks	origami/pureland origami
+501	dev	wikibooks	origami/pureland origami
+502	dev	wikibooks	sociology/race and ethnicity
+503	dev	wikibooks	sociology/race and ethnicity
+504	dev	wikibooks	American education/technology (Social media)
+505	dev	wikibooks	American education/technology (Social media)
+506	dev	wikibooks	American education/technology (Social media)
+507	dev	wikibooks	American education/technology (Social media)
+508	dev	wikibooks	American education/technology (Social media)
+509	dev	wikibooks	American education/Special Needs ADD
+510	dev	wikibooks	American education/Special Needs ADD
+511	dev	wikibooks	American education/Special Needs ADD
+512	dev	wikibooks	American education/Special Needs ADD
+513	dev	wikibooks	American education/Special Needs ADD
+514	dev	wikibooks	Communication theory/orality and literacy
+515	dev	wikibooks	Communication theory/orality and literacy
+516	dev	wikibooks	Communication theory/orality and literacy
+517	dev	wikibooks	Paleoanthropology/bones
+518	dev	wikibooks	Paleoanthropology/bones
+519	dev	wikibooks	Paleoanthropology/bones
+520	dev	wikibooks	Paleoanthropology/bones
+521	dev	wikibooks	Lucid Dreaming/Introduction
+522	dev	wikibooks	Lucid Dreaming/Introduction
+523	dev	wikibooks	Lucid Dreaming/Introduction
+524	dev	wikibooks	Lucid Dreaming/Introduction
+525	dev	wikibooks	Lucid Dreaming/Introduction
+526	dev	wikibooks	World_War_II/Fall_of_East_Africa_and_War_in_North_Africa
+527	dev	wikibooks	World_War_II/Fall_of_East_Africa_and_War_in_North_Africa
+528	dev	wikibooks	World_War_II/Fall_of_East_Africa_and_War_in_North_Africa
+529	dev	wikibooks	wiki/Fencing
+530	dev	wikibooks	wiki/Fencing
+531	dev	wikibooks	Golf
+532	dev	wikibooks	Golf
+533	dev	wikibooks	Golf
+534	dev	wikibooks	Golf
+535	dev	wikibooks	Introductory_Tourism
+536	dev	wikibooks	Introductory_Tourism
+537	dev	wikibooks	Introductory_Tourism
+538	dev	wikibooks	Introductory_Tourism
+539	dev	wikibooks	Introductory_Tourism
+540	dev	wikibooks	American_Revolution/Ticonderoga_and_Bunker_Hill
+541	dev	wikibooks	American_Revolution/Ticonderoga_and_Bunker_Hill
+542	dev	wikibooks	American_Revolution/Ticonderoga_and_Bunker_Hill
+543	dev	wikibooks	American_Revolution/Ticonderoga_and_Bunker_Hill
+544	dev	wikibooks	American_Revolution/Ticonderoga_and_Bunker_Hill
+545	dev	wikibooks	American_Revolution/The_Battles_of_Trenton_and_Princeton
+546	dev	wikibooks	American_Revolution/The_Battles_of_Trenton_and_Princeton
+547	dev	wikibooks	American_Revolution/The_Battles_of_Trenton_and_Princeton
+548	dev	wikibooks	American_Revolution/The_Battles_of_Trenton_and_Princeton
+549	dev	wikibooks	Science/distance runner
+550	dev	wikibooks	Science/distance runner
+551	dev	wikibooks	Science/distance runner
+552	dev	wikibooks	Science/distance runner
+553	dev	wikibooks	Science/distance runner
+554	dev	wikibooks	Science/distance runner
+555	dev	wikibooks	Science/distance runner
+556	dev	wikibooks	Science/distance runner
+557	dev	wikibooks	Science/Radiography
+558	dev	wikibooks	Science/Radiography
+559	dev	wikibooks	Science/Radiography
+560	dev	wikibooks	Science/Radiography
+561	dev	wikibooks	Science/First Aid
+562	dev	wikibooks	Science/First Aid
+563	dev	wikibooks	Science/First Aid
+564	dev	wikibooks	Science/Disease
+565	dev	wikibooks	Science/Disease
+566	dev	wikibooks	Science/Disease
+567	dev	wikibooks	Science/Sensory Systems
+568	dev	wikibooks	Science/Sensory Systems
+569	dev	wikibooks	Science/Sensory Systems
+570	dev	wikibooks	Science/Animal Behavior
+571	dev	wikibooks	Science/Animal Behavior
+572	dev	wikibooks	Science/Animal Behavior
+573	dev	wikibooks	Science/Animal Behavior
+574	dev	wikibooks	Science/Animal Behavior
+575	dev	wikibooks	Science/Animal Behavior
+576	dev	wikibooks	Science/Animal Behavior
+577	dev	wikibooks	Science/General Biology
+578	dev	wikibooks	Science/General Biology
+579	dev	wikibooks	Science/General Biology
+580	dev	wikibooks	Science/The Organ Systems
+581	dev	wikibooks	Science/The Organ Systems
+582	dev	wikibooks	Science/Earth Science
+583	dev	wikibooks	Science/Earth Science
+584	dev	wikibooks	Science/Earth Science
+585	dev	wikibooks	Science/Earth Science
+586	dev	wikibooks	Science/Earth Science
+587	dev	wikibooks	Science/Earth Science
+588	dev	wikibooks	Science/Peak Oil
+589	dev	wikibooks	Science/Peak Oil
+590	dev	wikibooks	Solar_System/Space_exploration
+591	dev	wikibooks	Solar_System/Space_exploration
+592	dev	wikibooks	Solar_System/Space_exploration
+593	dev	wikibooks	Biology/Kingdoms/Animals
+594	dev	wikibooks	Biology/Kingdoms/Animals
+595	dev	wikibooks	Biology/Kingdoms/Animals
+596	dev	wikibooks	Biology/Cells
+597	dev	wikibooks	Biology/Cells
+598	dev	wikibooks	Biology/Cells
+599	dev	wikibooks	Biology/Cells
+600	dev	wikibooks	Biology/Cells
+601	dev	wikibooks	The_Elements/Matter_Is_The_Stuff_Around_You
+602	dev	wikibooks	The_Elements/Matter_Is_The_Stuff_Around_You
+603	dev	wikibooks	The_Elements/Matter_Is_The_Stuff_Around_You
+604	dev	wikibooks	The_Elements/Matter_Is_The_Stuff_Around_You
+605	dev	wikibooks	The_Elements/Matter_Is_The_Stuff_Around_You
+606	dev	wikibooks	How_Things_Work/Time
+607	dev	wikibooks	How_Things_Work/Time
+608	dev	wikibooks	How_Things_Work/Time
+609	dev	wikibooks	How_Things_Work/Time
+610	dev	wikibooks	How_Things_Work/Time
+611	dev	wikibooks	How_Things_Work/Computer
+612	dev	wikibooks	How_Things_Work/Computer
+613	dev	wikibooks	How_Things_Work/Computer
+614	dev	wikibooks	New Zealand History/Polynesian Settlement
+615	dev	wikibooks	New Zealand History/Polynesian Settlement
+616	dev	wikibooks	New Zealand History/Polynesian Settlement
+617	dev	wikibooks	New Zealand History/Polynesian Settlement
+618	dev	wikibooks	New Zealand History/Polynesian Settlement
+619	dev	wikibooks	Learning Theories/Organizational Learning
+620	dev	wikibooks	Learning Theories/Organizational Learning
+621	dev	wikibooks	Learning Theories/Organizational Learning
+622	dev	wikibooks	Learning Theories/Organizational Learning
+623	dev	wikibooks	Learning Theories/Organizational Learning
+624	dev	wikibooks	Learning Theories/Organizational Learning
+625	dev	wikibooks	Cognitive Psycology and Neuroscience/Convergent Thinking
+626	dev	wikibooks	Cognitive Psycology and Neuroscience/Convergent Thinking
+627	dev	wikibooks	Cognitive Psycology and Neuroscience/Convergent Thinking
+628	dev	wikibooks	Cognitive Psycology and Neuroscience/Convergent Thinking
+629	dev	wikibooks	Cognitive Psycology and Neuroscience/Convergent Thinking
+630	dev	wikibooks	Cognitive Psycology and Neuroscience/Social Cognition
+631	dev	wikibooks	Cognitive Psycology and Neuroscience/Social Cognition
+632	dev	wikibooks	Cognitive Psycology and Neuroscience/Social Cognition
+633	dev	wikibooks	Cognitive Psycology and Neuroscience/Social Cognition
+634	dev	wikibooks	Cognitive Psycology and Neuroscience/Social Cognition
+635	dev	wikibooks	Cognitive Psycology and Neuroscience/MRI
+636	dev	wikibooks	Cognitive Psycology and Neuroscience/MRI
+637	dev	wikibooks	Cognitive Psycology and Neuroscience/MRI
+638	dev	wikibooks	Cognitive Psycology and Neuroscience/MRI
+639	dev	wikibooks	Cognitive Psycology and Neuroscience/MRI
+640	dev	wikibooks	Blended Learning/Asynchronous communication
+641	dev	wikibooks	Blended Learning/Asynchronous communication
+642	dev	wikibooks	Blended Learning/Asynchronous communication
+643	dev	wikibooks	Blended Learning/Asynchronous communication
+644	dev	wikibooks	Blended Learning/Asynchronous communication
+645	dev	wikibooks	Learning Theories/Post-modern theories
+646	dev	wikibooks	Learning Theories/Post-modern theories
+647	dev	wikibooks	Learning Theories/Post-modern theories
+648	dev	wikibooks	Learning Theories/Post-modern theories
+649	dev	wikibooks	Learning Theories/Post-modern theories
+650	dev	wikivoyage	travel, internet
+651	dev	wikivoyage	travel, internet
+652	dev	wikivoyage	travel, culture
+653	dev	wikivoyage	travel, culture
+654	dev	wikivoyage	travel, culture
+655	dev	wikivoyage	Travel
+656	dev	wikivoyage	Travel
+657	dev	wikivoyage	Travel
+658	dev	wikivoyage	Travel
+659	dev	wikivoyage	Travel
+660	dev	wikivoyage	travel, tourism
+661	dev	wikivoyage	travel, tourism
+662	dev	wikivoyage	travel, tourism
+663	dev	wikivoyage	travel, tourism
+664	dev	wikivoyage	travel, cuisine
+665	dev	wikivoyage	travel, culture
+666	dev	wikivoyage	travel, culture
+667	dev	wikivoyage	travel, culture
+668	dev	wikivoyage	travel, tourism
+669	dev	wikivoyage	travel, tourism
+670	dev	wikivoyage	travel, camping
+671	dev	wikivoyage	travel, camping
+672	dev	wikivoyage	travel, camping
+673	dev	wikivoyage	travel, camping
+674	dev	wikivoyage	travel, camping
+675	dev	wikivoyage	travel, tourism
+676	dev	wikivoyage	travel, tourism
+677	dev	wikivoyage	travel, tourism
+678	dev	wikivoyage	travel, tourism
+679	dev	wikivoyage	travel, tourism
+680	dev	wikivoyage	travel
+681	dev	wikivoyage	travel
+682	dev	wikivoyage	travel
+683	dev	wikivoyage	travel
+684	dev	wikivoyage	travel
+685	dev	wikivoyage	travel, archaeology
+686	dev	wikivoyage	travel, archaeology
+687	dev	wikivoyage	travel, archaeology
+688	dev	wikivoyage	travel, archaeology
+689	dev	wikivoyage	travel, archaeology
+690	dev	wikivoyage	Travel
+691	dev	wikivoyage	Travel
+692	dev	wikivoyage	Travel
+693	dev	wikivoyage	Travel
+694	dev	wikivoyage	Travel, History
+695	dev	wikivoyage	Travel, History
+696	dev	wikivoyage	Travel, History
+697	dev	wikivoyage	Travel, History
+698	dev	wikivoyage	Travel, History
+699	dev	wikivoyage	Travel
+700	dev	wikivoyage	Travel
+701	dev	wikivoyage	Travel
+702	dev	wikivoyage	Travel
+703	dev	wikivoyage	Travel
+704	dev	wikivoyage	Travel
+705	dev	wikivoyage	Travel
+706	dev	wikivoyage	Travel
+707	dev	wikivoyage	Travel
+708	dev	wikivoyage	Travel
+709	dev	wikivoyage	Travel
+710	dev	wikivoyage	Travel
+711	dev	wikivoyage	Travel
+712	dev	wikivoyage	Travel
+713	dev	wikivoyage	Travel
+714	dev	wikivoyage	Travel
+715	dev	wikivoyage	Travel
+716	dev	wikivoyage	Travel
+717	dev	wikivoyage	Travel, History
+718	dev	wikivoyage	Travel, History
+719	dev	wikivoyage	Travel, History
+720	dev	wikivoyage	Travel
+721	dev	wikivoyage	Travel
+722	dev	wikivoyage	Travel, History
+723	dev	wikivoyage	Travel, History
+724	dev	wikivoyage	Travel, History
+725	dev	wikivoyage	Travel
+726	dev	wikivoyage	Travel
+727	dev	wikivoyage	Travel
+728	dev	wikivoyage	Travel
+729	dev	wikivoyage	Travel
+730	dev	wikivoyage	Travel
+731	dev	wikivoyage	Travel
+732	dev	wikivoyage	Travel
+733	dev	wikivoyage	Travel
+734	dev	wikivoyage	Travel
+735	dev	wikivoyage	Travel
+736	dev	wikivoyage	Travel
+737	dev	wikivoyage	Travel
+738	dev	wikivoyage	Travel
+739	dev	wikivoyage	Travel
+740	dev	wikivoyage	Travel
+741	dev	wikivoyage	Travel
+742	dev	wikivoyage	Travel
+743	dev	wikivoyage	Travel
+744	dev	wikivoyage	Travel
+745	dev	wikivoyage	travel, accomodation
+746	dev	wikivoyage	travel, accomodation
+747	dev	wikivoyage	travel, accomodation
+748	dev	wikivoyage	travel, accomodation
+749	dev	wikivoyage	travel, accomodation
+750	dev	wikivoyage	travel, accomodation
+751	dev	wikivoyage	travel, accomodation
+752	dev	wikivoyage	travel, accomodation
+753	dev	wikivoyage	travel, accomodation
+754	dev	wikivoyage	travel, accomodation
+755	dev	wikivoyage	travel, accomodation
+756	dev	wikivoyage	travel, accomodation
+757	dev	wikivoyage	travel, accomodation
+758	dev	wikivoyage	travel, accomodation
+759	dev	wikivoyage	travel, accomodation
+760	dev	wikivoyage	travel, accomodation
+761	dev	wikivoyage	travel, accomodation
+762	dev	wikivoyage	travel, accomodation
+763	dev	wikivoyage	travel, accomodation
+764	dev	wikivoyage	travel, accomodation
+765	dev	wikivoyage	travel, accomodation
+766	dev	wikivoyage	travel, accomodation
+767	dev	wikivoyage	travel, sports
+768	dev	wikivoyage	travel, sports
+769	dev	wikivoyage	travel, sports
+770	dev	wikivoyage	travel, religion
+771	dev	wikivoyage	travel, religion
+772	dev	wikivoyage	travel, religion
+773	dev	wikivoyage	travel, events
+774	dev	wikivoyage	travel, events
+775	dev	wikivoyage	travel, events
+776	dev	wikivoyage	travel, events
+777	dev	wikivoyage	travel, events
+778	dev	wikivoyage	photography
+779	dev	wikivoyage	photography
+780	dev	wikivoyage	photography
+781	dev	wikivoyage	photography
+782	dev	wikivoyage	travel, wildlife, photography
+783	dev	wikivoyage	travel, wildlife, photography
+784	dev	wikivoyage	travel, wildlife, photography
+785	dev	wikivoyage	travel, wildlife, photography
+786	dev	wikivoyage	travel, wildlife, photography
+787	dev	wikivoyage	travel, language
+788	dev	wikivoyage	travel, language
+789	dev	wikivoyage	travel, language
+790	dev	wikivoyage	travel, language
+791	dev	wikivoyage	travel, language
+792	dev	wikivoyage	Food
+793	dev	wikivoyage	Food
+794	dev	wikivoyage	Food
+795	dev	wikivoyage	Health, Travel
+796	dev	wikivoyage	Health, Travel
+797	dev	wikivoyage	Health, Travel
+798	dev	wikivoyage	Health, Travel
+799	dev	wikivoyage	Health, Travel
+800	dev	wikivoyage	Animals
+801	dev	wikivoyage	Animals
+802	dev	wikivoyage	Alchohol
+803	dev	wikivoyage	Alchohol
+804	dev	wikivoyage	Alchohol
+805	dev	wikivoyage	Glasses
+806	dev	wikivoyage	Glasses
+807	dev	wikivoyage	Glasses
+808	dev	wikivoyage	Food, Beverages
+809	dev	wikivoyage	Food, Beverages
+810	dev	wikivoyage	sports
+811	dev	wikivoyage	sports
+812	dev	wikivoyage	sports
+813	dev	wikivoyage	sports
+814	dev	wikivoyage	sports
+815	dev	wikivoyage	sports
+816	dev	wikivoyage	sports, organizations
+817	dev	wikivoyage	sports, organizations
+818	dev	wikivoyage	sports, organizations
+819	dev	wikivoyage	travel
+820	dev	wikivoyage	travel
+821	dev	wikivoyage	travel
+822	dev	wikivoyage	travel
+823	dev	wikivoyage	travel
+824	dev	wikivoyage	travel
+825	dev	wikivoyage	travel
+826	dev	wikivoyage	travel
+827	dev	wikivoyage	travel
+828	dev	wikivoyage	travel
+829	dev	wikivoyage	travel
+830	dev	wikivoyage	travel
+831	dev	wikivoyage	travel
+832	dev	wikivoyage	travel
+833	dev	wikivoyage	travel
+834	dev	wikivoyage	travel
+835	dev	wikivoyage	travel
+836	dev	wikivoyage	travel
+837	dev	wikivoyage	travel
+838	dev	wikivoyage	travel
+839	dev	wikivoyage	travel
+840	dev	wikivoyage	travel
+841	dev	wikivoyage	travel
+842	dev	wikivoyage	travel
+843	dev	wikivoyage	travel
+844	dev	wikivoyage	travel, art
+845	dev	wikivoyage	travel, art
+846	dev	wikivoyage	travel, art
+847	dev	wikivoyage	travel
+848	dev	wikivoyage	travel
+849	dev	wikivoyage	travel
+850	dev	wikivoyage	travel, culture
+851	dev	wikivoyage	travel, culture
+852	dev	wikivoyage	travel, culture
+853	dev	wikivoyage	travel, culture
+854	dev	wikivoyage	travel, commute
+855	dev	wikivoyage	travel, commute
+856	dev	wikivoyage	travel, commute
+857	dev	wikivoyage	travel, safety
+858	dev	wikivoyage	travel, safety
+859	dev	wikivoyage	travel, safety
+860	dev	wikivoyage	travel, safety
+861	dev	wikivoyage	travel, safety
+862	dev	wikivoyage	travel, safety
+863	dev	wikivoyage	travel, safety
+864	dev	wikivoyage	travel, safety
+865	dev	wikivoyage	travel, safety
+866	dev	wikivoyage	travel, safety
+867	dev	wikivoyage	travel, safety
+868	dev	wikivoyage	travel, safety
+869	dev	wikivoyage	travel, safety
+870	dev	wikivoyage	travel, safety
+871	dev	wikivoyage	travel, safety
+872	dev	wikivoyage	travel, food
+873	dev	wikivoyage	travel, food
+874	dev	wikivoyage	travel, food
+875	dev	wikivoyage	travel, food
+876	dev	wikivoyage	travel, food
+877	dev	wikivoyage	travel, health
+878	dev	wikivoyage	travel, health
+879	dev	wikivoyage	travel, health
+880	dev	wikivoyage	travel, health
+881	dev	wikivoyage	travel, health
+882	dev	wikivoyage	travel, children
+883	dev	wikivoyage	travel, children
+884	dev	wikivoyage	travel, children
+885	dev	wikivoyage	travel, children
+886	dev	wikivoyage	travel, children
+887	dev	wikivoyage	Antartica, Travel
+888	dev	wikivoyage	Antartica, Travel
+889	dev	wikivoyage	Antartica, Travel
+890	dev	wikivoyage	Antartica, Travel
+891	dev	wikivoyage	Antartica, Travel
+892	dev	wikivoyage	Antartica, Travel
+893	dev	wikivoyage	Antartica, Travel
+894	dev	wikivoyage	Antartica, Travel
+895	dev	wikivoyage	Antartica, Travel
+896	dev	wikivoyage	Antartica, Travel
+897	dev	wikivoyage	Antartica, Travel
+898	dev	wikivoyage	Antartica, Travel
+899	dev	wikivoyage	Antartica, Travel
+900	dev	wikivoyage	Snow, Travel
+901	dev	wikivoyage	Snow, Travel
+902	dev	wikivoyage	Snow, Travel
+903	dev	wikivoyage	Weather
+904	dev	wikivoyage	Weather
+905	dev	wikivoyage	Weather
+906	dev	wikivoyage	Internet, Communication
+907	dev	wikivoyage	Internet, Communication
+908	dev	wikivoyage	Internet, Communication
+909	dev	wikivoyage	Communication
+910	dev	wikivoyage	Communication
+911	dev	wikivoyage	Communication
+912	dev	wikivoyage	Communication, Internet
+913	dev	wikivoyage	Communication, Internet
+914	dev	wikivoyage	Communication, Internet
+915	dev	wikivoyage	Communication, Applications
+916	dev	wikivoyage	Communication, Applications
+917	dev	wikivoyage	Communication, Applications
+918	dev	wikivoyage	Communication, Applications
+919	dev	wikivoyage	Communication
+920	dev	wikivoyage	Communication
+921	dev	wikivoyage	Communication
+922	dev	wikivoyage	Communication
+923	dev	wikivoyage	Communication
+924	dev	wikivoyage	Communication
+925	dev	wikivoyage	Photography
+926	dev	wikivoyage	Photography
+927	dev	wikivoyage	Photography
+928	dev	wikivoyage	Photography
+929	dev	wikivoyage	Travel
+930	dev	wikivoyage	Travel
+931	dev	wikivoyage	Study
+932	dev	wikivoyage	Study
+933	dev	wikivoyage	Study
+934	dev	wikivoyage	Study
+935	dev	wikivoyage	Study
+936	dev	wikivoyage	Work
+937	dev	wikivoyage	Work
+938	dev	wikivoyage	Work
+939	dev	wikivoyage	Travel
+940	dev	wikivoyage	Travel
+941	dev	wikivoyage	Travel, Writing
+942	dev	wikivoyage	Travel, Writing
+943	dev	wikivoyage	Work, Travel
+944	dev	wikivoyage	Work, Travel
+945	dev	wikivoyage	Work, Travel
+946	dev	wikivoyage	sailing
+947	dev	wikivoyage	sailing
+948	dev	wikivoyage	sailing
+949	dev	wikivoyage	sailing
+950	dev	wikivoyage	sailing
+951	dev	wikivoyage	sailing
+952	dev	wikivoyage	travel
+953	dev	wikivoyage	travel
+954	dev	wikivoyage	travel
+955	dev	wikivoyage	travel
+956	dev	wikivoyage	travel
+957	dev	wikivoyage	travel
+958	dev	wikivoyage	travel
+959	dev	wikivoyage	travel
+960	dev	wikivoyage	travel
+961	dev	wikivoyage	travel
+962	dev	wikivoyage	travel, history
+963	dev	wikivoyage	travel, history
+964	dev	wikivoyage	travel, history
+965	dev	wikivoyage	travel
+966	dev	wikivoyage	travel
+967	dev	wikivoyage	travel
+968	dev	wikivoyage	travel
+969	dev	wikivoyage	travel
+970	dev	wikivoyage	travel
+971	dev	wikivoyage	Language/French
+972	dev	wikivoyage	Language/French
+973	dev	wikivoyage	Language/French
+974	dev	wikivoyage	Language/Gestures
+975	dev	wikivoyage	Language/Gestures
+976	dev	wikivoyage	Language/Gestures
+977	dev	wikivoyage	Language/Auxiliary Language
+978	dev	wikivoyage	Language/Auxiliary Language
+979	dev	wikivoyage	Natural wonders/Desert
+980	dev	wikivoyage	Natural wonders/Desert
+981	dev	wikivoyage	Natural wonders/Desert
+982	dev	wikivoyage	Natural wonders/Rainforest
+983	dev	wikivoyage	Natural wonders/Rainforest
+984	dev	wikivoyage	Natural wonders/Birdwatching
+985	dev	wikivoyage	Natural wonders/Birdwatching
+986	dev	wikivoyage	Natural wonders/Birdwatching
+987	dev	wikivoyage	Natural wonders/Hiking in Norway
+988	dev	wikivoyage	Natural wonders/Hiking in Norway
+989	dev	wikivoyage	Natural wonders/Hiking in Norway
+990	dev	wikivoyage	Natural wonders/Glaciers
+991	dev	wikivoyage	Natural wonders/Glaciers
+992	dev	wikivoyage	Natural wonders/Glaciers
+993	dev	wikivoyage	Natural wonders/Hill stations in India
+994	dev	wikivoyage	Natural wonders/Hill stations in India
+995	dev	wikivoyage	Reason to travel/Funeral travel
+996	dev	wikivoyage	Reason to travel/Funeral travel
+997	dev	wikivoyage	Reason to travel/Funeral travel
+998	devtest	wikinews	disease, research, canada
+999	devtest	wikinews	disease, research, canada
+1000	devtest	wikinews	disease, research, canada
+1001	devtest	wikinews	music
+1002	devtest	wikinews	music
+1003	devtest	wikinews	business
+1004	devtest	wikinews	business
+1005	devtest	wikinews	business
+1006	devtest	wikinews	business
+1007	devtest	wikinews	business
+1008	devtest	wikinews	health
+1009	devtest	wikinews	health
+1010	devtest	wikinews	health
+1011	devtest	wikinews	sports
+1012	devtest	wikinews	sports
+1013	devtest	wikinews	sports
+1014	devtest	wikinews	sports
+1015	devtest	wikinews	politics
+1016	devtest	wikinews	politics
+1017	devtest	wikinews	politics
+1018	devtest	wikinews	entertainment
+1019	devtest	wikinews	entertainment
+1020	devtest	wikinews	entertainment
+1021	devtest	wikinews	entertainment
+1022	devtest	wikinews	politics
+1023	devtest	wikinews	politics
+1024	devtest	wikinews	politics
+1025	devtest	wikinews	sciece
+1026	devtest	wikinews	sciece
+1027	devtest	wikinews	sciece
+1028	devtest	wikinews	sciece
+1029	devtest	wikinews	sciece
+1030	devtest	wikinews	sciece
+1031	devtest	wikinews	politics
+1032	devtest	wikinews	politics
+1033	devtest	wikinews	politics
+1034	devtest	wikinews	sciece
+1035	devtest	wikinews	sciece
+1036	devtest	wikinews	sciece
+1037	devtest	wikinews	travel
+1038	devtest	wikinews	travel
+1039	devtest	wikinews	sciece
+1040	devtest	wikinews	sciece
+1041	devtest	wikinews	sciece
+1042	devtest	wikinews	Politics and conflicts
+1043	devtest	wikinews	Politics and conflicts
+1044	devtest	wikinews	environment
+1045	devtest	wikinews	environment
+1046	devtest	wikinews	environment
+1047	devtest	wikinews	environment
+1048	devtest	wikinews	Politics
+1049	devtest	wikinews	Politics
+1050	devtest	wikinews	Politics
+1051	devtest	wikinews	Politics
+1052	devtest	wikinews	Politics
+1053	devtest	wikinews	Politics
+1054	devtest	wikinews	Politics
+1055	devtest	wikinews	Politics
+1056	devtest	wikinews	Politics
+1057	devtest	wikinews	Religion
+1058	devtest	wikinews	Religion
+1059	devtest	wikinews	Religion
+1060	devtest	wikinews	Religion
+1061	devtest	wikinews	Crime and Law
+1062	devtest	wikinews	Crime and Law
+1063	devtest	wikinews	Sports
+1064	devtest	wikinews	Sports
+1065	devtest	wikinews	Sports
+1066	devtest	wikinews	Politics
+1067	devtest	wikinews	Politics
+1068	devtest	wikinews	Politics
+1069	devtest	wikinews	Politics
+1070	devtest	wikinews	Politics
+1071	devtest	wikinews	Politics
+1072	devtest	wikinews	Politics
+1073	devtest	wikinews	Disasters and accidents
+1074	devtest	wikinews	Disasters and accidents
+1075	devtest	wikinews	Disasters and accidents
+1076	devtest	wikinews	Politics
+1077	devtest	wikinews	Politics
+1078	devtest	wikinews	Weather
+1079	devtest	wikinews	Weather
+1080	devtest	wikinews	Weather
+1081	devtest	wikinews	Weather
+1082	devtest	wikinews	Weather
+1083	devtest	wikinews	Media
+1084	devtest	wikinews	Media
+1085	devtest	wikinews	Media
+1086	devtest	wikinews	Research
+1087	devtest	wikinews	Research
+1088	devtest	wikinews	Research
+1089	devtest	wikinews	Research
+1090	devtest	wikinews	Research
+1091	devtest	wikinews	Disaster
+1092	devtest	wikinews	Disaster
+1093	devtest	wikinews	Disaster
+1094	devtest	wikinews	Disaster
+1095	devtest	wikinews	Health
+1096	devtest	wikinews	Health
+1097	devtest	wikinews	Health
+1098	devtest	wikinews	Health
+1099	devtest	wikinews	Health
+1100	devtest	wikinews	
+1101	devtest	wikinews	Science
+1102	devtest	wikinews	Science
+1103	devtest	wikinews	Science
+1104	devtest	wikinews	Science
+1105	devtest	wikinews	Crime and Law
+1106	devtest	wikinews	Crime and Law
+1107	devtest	wikinews	Crime and Law
+1108	devtest	wikinews	Crime and Law
+1109	devtest	wikinews	Crime and Law
+1110	devtest	wikinews	Health
+1111	devtest	wikinews	Health
+1112	devtest	wikinews	Health
+1113	devtest	wikinews	Health
+1114	devtest	wikinews	Health
+1115	devtest	wikinews	Culture
+1116	devtest	wikinews	Culture
+1117	devtest	wikinews	Culture
+1118	devtest	wikinews	Culture
+1119	devtest	wikinews	Culture
+1120	devtest	wikinews	Accident
+1121	devtest	wikinews	Accident
+1122	devtest	wikinews	Accident
+1123	devtest	wikinews	Accident
+1124	devtest	wikinews	Accident
+1125	devtest	wikinews	climate
+1126	devtest	wikinews	climate
+1127	devtest	wikinews	climate
+1128	devtest	wikinews	health
+1129	devtest	wikinews	health
+1130	devtest	wikinews	Crime and Law
+1131	devtest	wikinews	crime and Law
+1132	devtest	wikinews	crime and Law
+1133	devtest	wikinews	crime and Law
+1134	devtest	wikinews	crime and Law
+1135	devtest	wikinews	nature
+1136	devtest	wikinews	nature
+1137	devtest	wikinews	nature
+1138	devtest	wikinews	nature
+1139	devtest	wikinews	nature
+1140	devtest	wikinews	nature
+1141	devtest	wikinews	entertainment
+1142	devtest	wikinews	entertainment
+1143	devtest	wikinews	Politics and conflicts
+1144	devtest	wikinews	Politics and conflicts
+1145	devtest	wikinews	Politics and conflicts
+1146	devtest	wikinews	Politics and conflicts
+1147	devtest	wikinews	Politics and conflicts
+1148	devtest	wikinews	Health
+1149	devtest	wikinews	Health
+1150	devtest	wikinews	sport
+1151	devtest	wikinews	sport
+1152	devtest	wikinews	sport
+1153	devtest	wikinews	sport
+1154	devtest	wikinews	law
+1155	devtest	wikinews	law
+1156	devtest	wikinews	science
+1157	devtest	wikinews	science
+1158	devtest	wikinews	science
+1159	devtest	wikinews	science
+1160	devtest	wikinews	politics
+1161	devtest	wikinews	politics
+1162	devtest	wikinews	politics
+1163	devtest	wikinews	politics
+1164	devtest	wikinews	politics
+1165	devtest	wikinews	science
+1166	devtest	wikinews	science
+1167	devtest	wikinews	entertainment
+1168	devtest	wikinews	entertainment
+1169	devtest	wikinews	entertainment
+1170	devtest	wikinews	entertainment
+1171	devtest	wikinews	crime
+1172	devtest	wikinews	crime
+1173	devtest	wikinews	crime
+1174	devtest	wikinews	sport
+1175	devtest	wikinews	sport
+1176	devtest	wikinews	sport
+1177	devtest	wikinews	sport
+1178	devtest	wikinews	sport
+1179	devtest	wikinews	environment
+1180	devtest	wikinews	environment
+1181	devtest	wikinews	environment
+1182	devtest	wikinews	health
+1183	devtest	wikinews	health
+1184	devtest	wikinews	health
+1185	devtest	wikinews	law
+1186	devtest	wikinews	law
+1187	devtest	wikinews	entertainment
+1188	devtest	wikinews	entertainment
+1189	devtest	wikinews	Politics
+1190	devtest	wikinews	Politics
+1191	devtest	wikinews	Politics
+1192	devtest	wikinews	Politics
+1193	devtest	wikinews	Entertainment
+1194	devtest	wikinews	Entertainment
+1195	devtest	wikinews	Entertainment
+1196	devtest	wikinews	Entertainment
+1197	devtest	wikinews	Sports
+1198	devtest	wikinews	Sports
+1199	devtest	wikinews	Sports
+1200	devtest	wikinews	Sports
+1201	devtest	wikinews	Sports
+1202	devtest	wikinews	International
+1203	devtest	wikinews	International
+1204	devtest	wikinews	International
+1205	devtest	wikinews	International
+1206	devtest	wikinews	International
+1207	devtest	wikinews	Health
+1208	devtest	wikinews	Health
+1209	devtest	wikinews	Health
+1210	devtest	wikinews	Entertainment
+1211	devtest	wikinews	Entertainment
+1212	devtest	wikinews	Entertainment
+1213	devtest	wikinews	Entertainment
+1214	devtest	wikinews	Crime and law
+1215	devtest	wikinews	Crime and law
+1216	devtest	wikinews	Crime and law
+1217	devtest	wikinews	Disasters and accidents
+1218	devtest	wikinews	Disasters and accidents
+1219	devtest	wikinews	Disasters and accidents
+1220	devtest	wikinews	Disasters and accidents
+1221	devtest	wikinews	Disasters and accidents
+1222	devtest	wikinews	Culture and entertainment
+1223	devtest	wikinews	Culture and entertainment
+1224	devtest	wikinews	Culture and entertainment
+1225	devtest	wikinews	Sports
+1226	devtest	wikinews	Sports
+1227	devtest	wikinews	Sports
+1228	devtest	wikinews	Culture and entertainment
+1229	devtest	wikinews	Culture and entertainment
+1230	devtest	wikinews	Culture and entertainment
+1231	devtest	wikinews	Culture and entertainment
+1232	devtest	wikinews	Culture and entertainment
+1233	devtest	wikinews	Culture and entertainment
+1234	devtest	wikinews	entertainment
+1235	devtest	wikinews	entertainment
+1236	devtest	wikinews	entertainment
+1237	devtest	wikinews	sports
+1238	devtest	wikinews	sports
+1239	devtest	wikinews	sports
+1240	devtest	wikinews	entertainment
+1241	devtest	wikinews	entertainment
+1242	devtest	wikinews	science and technology
+1243	devtest	wikinews	science and technology
+1244	devtest	wikinews	science and technology
+1245	devtest	wikinews	environment
+1246	devtest	wikinews	environment
+1247	devtest	wikinews	environment
+1248	devtest	wikinews	environment
+1249	devtest	wikinews	environment
+1250	devtest	wikinews	environment
+1251	devtest	wikinews	crime and law
+1252	devtest	wikinews	crime and law
+1253	devtest	wikinews	crime and law
+1254	devtest	wikinews	crime and law
+1255	devtest	wikinews	crime and law
+1256	devtest	wikinews	crime and law
+1257	devtest	wikinews	crime and law
+1258	devtest	wikinews	politics
+1259	devtest	wikinews	politics
+1260	devtest	wikinews	politics
+1261	devtest	wikinews	politics
+1262	devtest	wikinews	politics
+1263	devtest	wikinews	politics
+1264	devtest	wikinews	Politics
+1265	devtest	wikinews	Politics
+1266	devtest	wikinews	Politics
+1267	devtest	wikinews	Crime
+1268	devtest	wikinews	Crime
+1269	devtest	wikinews	Crime
+1270	devtest	wikinews	Crime
+1271	devtest	wikinews	Sports
+1272	devtest	wikinews	Sports
+1273	devtest	wikinews	Sports
+1274	devtest	wikinews	Sports
+1275	devtest	wikinews	Crime
+1276	devtest	wikinews	Crime
+1277	devtest	wikinews	Crime
+1278	devtest	wikinews	Crime
+1279	devtest	wikinews	accident
+1280	devtest	wikinews	accident
+1281	devtest	wikinews	accident
+1282	devtest	wikinews	accident
+1283	devtest	wikinews	accident
+1284	devtest	wikinews	Crime and law
+1285	devtest	wikinews	Crime and law
+1286	devtest	wikinews	Crime and law
+1287	devtest	wikinews	Crime and law
+1288	devtest	wikinews	Crime and law
+1289	devtest	wikinews	Politics
+1290	devtest	wikinews	Politics
+1291	devtest	wikinews	Politics
+1292	devtest	wikinews	Policy
+1293	devtest	wikinews	Policy
+1294	devtest	wikinews	Policy
+1295	devtest	wikinews	Internatoinal
+1296	devtest	wikinews	Internatoinal
+1297	devtest	wikinews	Internatoinal
+1298	devtest	wikinews	Internatoinal
+1299	devtest	wikinews	Internatoinal
+1300	devtest	wikinews	Science and technology
+1301	devtest	wikinews	Science and technology
+1302	devtest	wikinews	Science and technology
+1303	devtest	wikinews	Science and technology
+1304	devtest	wikinews	Disasters and accidents
+1305	devtest	wikinews	Disasters and accidents
+1306	devtest	wikinews	Disasters and accidents
+1307	devtest	wikinews	Crime and law
+1308	devtest	wikinews	Crime and law
+1309	devtest	wikinews	Crime and law
+1310	devtest	wikinews	Crime and law
+1311	devtest	wikinews	Crime and law
+1312	devtest	wikinews	Science
+1313	devtest	wikinews	Science
+1314	devtest	wikinews	Science
+1315	devtest	wikinews	Science
+1316	devtest	wikinews	Disasters and accidents
+1317	devtest	wikinews	Sports
+1318	devtest	wikinews	Sports
+1319	devtest	wikinews	Sports
+1320	devtest	wikinews	Politics and conflicts
+1321	devtest	wikinews	Politics and conflicts
+1322	devtest	wikinews	Politics and conflicts
+1323	devtest	wikinews	Politics and conflicts
+1324	devtest	wikinews	sports
+1325	devtest	wikinews	sports
+1326	devtest	wikinews	science
+1327	devtest	wikinews	science
+1328	devtest	wikinews	science
+1329	devtest	wikinews	science
+1330	devtest	wikinews	politics
+1331	devtest	wikinews	politics
+1332	devtest	wikinews	politics
+1333	devtest	wikinews	technology
+1334	devtest	wikinews	technology
+1335	devtest	wikinews	sports
+1336	devtest	wikinews	sports
+1337	devtest	wikinews	science
+1338	devtest	wikinews	science
+1339	devtest	wikibooks	elements, gold
+1340	devtest	wikibooks	elements, gold
+1341	devtest	wikibooks	elements, gold
+1342	devtest	wikibooks	science experiments, red cabbage
+1343	devtest	wikibooks	science experiments, red cabbage
+1344	devtest	wikibooks	science experiments, red cabbage
+1345	devtest	wikibooks	science experiments, red cabbage
+1346	devtest	wikibooks	science experiments, bath fizzler
+1347	devtest	wikibooks	science experiments, bath fizzler
+1348	devtest	wikibooks	how things work, flush toilets
+1349	devtest	wikibooks	how things work, flush toilets
+1350	devtest	wikibooks	how things work, flush toilets
+1351	devtest	wikibooks	how things work, rocket
+1352	devtest	wikibooks	how things work, rocket
+1353	devtest	wikibooks	how things work, rocket
+1354	devtest	wikibooks	how things work, rocket
+1355	devtest	wikibooks	how things work, wheel
+1356	devtest	wikibooks	how things work, wheel
+1357	devtest	wikibooks	big cats
+1358	devtest	wikibooks	big cats
+1359	devtest	wikibooks	big cats
+1360	devtest	wikibooks	big cats, lion
+1361	devtest	wikibooks	big cats, lion
+1362	devtest	wikibooks	big cats, lion
+1363	devtest	wikibooks	big cats, lion
+1364	devtest	wikibooks	big cats, tiger
+1365	devtest	wikibooks	big cats, tiger
+1366	devtest	wikibooks	big cats, tiger
+1367	devtest	wikibooks	big cats, ocelot
+1368	devtest	wikibooks	big cats, ocelot
+1369	devtest	wikibooks	big cats, ocelot
+1370	devtest	wikibooks	biology, origin of life
+1371	devtest	wikibooks	biology, origin of life
+1372	devtest	wikibooks	biology, origin of life
+1373	devtest	wikibooks	biology, origin of life
+1374	devtest	wikibooks	biology, origin of life
+1375	devtest	wikibooks	biology, origin of life
+1376	devtest	wikibooks	biology, plants
+1377	devtest	wikibooks	biology, plants
+1378	devtest	wikibooks	biology, plants
+1379	devtest	wikibooks	dinosaurs, mosasaurus
+1380	devtest	wikibooks	dinosaurs, mosasaurus
+1381	devtest	wikibooks	dinosaurs, mosasaurus
+1382	devtest	wikibooks	dinosaurs, mosasaurus
+1383	devtest	wikibooks	Ancient Civilizations/Romans
+1384	devtest	wikibooks	Ancient Civilizations/Romans
+1385	devtest	wikibooks	Ancient Civilizations/Romans
+1386	devtest	wikibooks	Ancient Civilizations/Romans
+1387	devtest	wikibooks	Ancient_Civilizations/Babylonians
+1388	devtest	wikibooks	Ancient_Civilizations/Babylonians
+1389	devtest	wikibooks	Ancient_Civilizations/Babylonians
+1390	devtest	wikibooks	Ancient_Civilizations/Babylonians
+1391	devtest	wikibooks	Ancient_Civilizations/Babylonians
+1392	devtest	wikibooks	Ancient_Civilizations/Hebrews
+1393	devtest	wikibooks	Ancient_Civilizations/Hebrews
+1394	devtest	wikibooks	Ancient_Civilizations/Hebrews
+1395	devtest	wikibooks	Ancient_Civilizations/Hebrews
+1396	devtest	wikibooks	Ancient_Civilizations/Norse
+1397	devtest	wikibooks	Ancient_Civilizations/Norse
+1398	devtest	wikibooks	Ancient_Civilizations/Norse
+1399	devtest	wikibooks	United_States_Charters_of_Freedom/Declaration_of_Independence
+1400	devtest	wikibooks	United_States_Charters_of_Freedom/Declaration_of_Independence
+1401	devtest	wikibooks	United_States_Charters_of_Freedom/Declaration_of_Independence
+1402	devtest	wikibooks	United_States_Charters_of_Freedom/Declaration_of_Independence
+1403	devtest	wikibooks	United_States_Charters_of_Freedom/Declaration_of_Independence
+1404	devtest	wikibooks	World_War_II/Liberation_of_Western_Europe
+1405	devtest	wikibooks	World_War_II/Liberation_of_Western_Europe
+1406	devtest	wikibooks	World_War_II/Liberation_of_Western_Europe
+1407	devtest	wikibooks	World_War_II/Liberation_of_Western_Europe
+1408	devtest	wikibooks	Ancient_Civilizations/What_is_a_Civilization%3F
+1409	devtest	wikibooks	Ancient_Civilizations/What_is_a_Civilization%3F
+1410	devtest	wikibooks	Ancient_Civilizations/What_is_a_Civilization%3F
+1411	devtest	wikibooks	Ancient_Civilizations/What_is_a_Civilization%3F
+1412	devtest	wikibooks	United_States_Charters_of_Freedom/Constitution
+1413	devtest	wikibooks	United_States_Charters_of_Freedom/Constitution
+1414	devtest	wikibooks	United_States_Charters_of_Freedom/Constitution
+1415	devtest	wikibooks	United_States_Charters_of_Freedom/Constitution
+1416	devtest	wikibooks	Geography, Italy
+1417	devtest	wikibooks	Geography, Italy
+1418	devtest	wikibooks	Geography, Italy
+1419	devtest	wikibooks	Geography, Japan
+1420	devtest	wikibooks	Geography, Japan
+1421	devtest	wikibooks	Geography, Taiwan
+1422	devtest	wikibooks	Geography, Taiwan
+1423	devtest	wikibooks	Geography, Taiwan
+1424	devtest	wikibooks	Geography, Taiwan
+1425	devtest	wikibooks	World Heritage, Machu Picchu
+1426	devtest	wikibooks	World Heritage, Machu Picchu
+1427	devtest	wikibooks	World Heritage, Machu Picchu
+1428	devtest	wikibooks	modern photography/format
+1429	devtest	wikibooks	modern photography/format
+1430	devtest	wikibooks	modern photography/format
+1431	devtest	wikibooks	modern photography/format
+1432	devtest	wikibooks	modern photography/format
+1433	devtest	wikibooks	modern photography/composition
+1434	devtest	wikibooks	modern photography/composition
+1435	devtest	wikibooks	european history/challenges to spiritual authority
+1436	devtest	wikibooks	european history/challenges to spiritual authority
+1437	devtest	wikibooks	european history/challenges to spiritual authority
+1438	devtest	wikibooks	european history/challenges to spiritual authority
+1439	devtest	wikibooks	european history/challenges to spiritual authority
+1440	devtest	wikibooks	european history/world war
+1441	devtest	wikibooks	european history/world war
+1442	devtest	wikibooks	european history/world war
+1443	devtest	wikibooks	european history/world war
+1444	devtest	wikibooks	european history/europe from 1918 to 1945
+1445	devtest	wikibooks	european history/europe from 1918 to 1945
+1446	devtest	wikibooks	Nikola Tesla/middle years
+1447	devtest	wikibooks	Nikola Tesla/middle years
+1448	devtest	wikibooks	ancient china/government
+1449	devtest	wikibooks	ancient china/government
+1450	devtest	wikibooks	ancient china/government
+1451	devtest	wikibooks	ancient china/government
+1452	devtest	wikibooks	french revolution/effects
+1453	devtest	wikibooks	french revolution/effects
+1454	devtest	wikibooks	french revolution/effects
+1455	devtest	wikibooks	french revolution/effects
+1456	devtest	wikibooks	history of islam/early islam
+1457	devtest	wikibooks	history of islam/early islam
+1458	devtest	wikibooks	history of islam/early islam
+1459	devtest	wikibooks	history of islam/early islam
+1460	devtest	wikibooks	history of islam/early islam
+1461	devtest	wikibooks	seven wonders of the world/pyramid at giza
+1462	devtest	wikibooks	seven wonders of the world/pyramid at giza
+1463	devtest	wikibooks	seven wonders of the world/pyramid at giza
+1464	devtest	wikibooks	seven wonders of the world/pyramid at giza
+1465	devtest	wikibooks	how to play the violin/bowing
+1466	devtest	wikibooks	how to play the violin/bowing
+1467	devtest	wikibooks	how to play the violin/bowing
+1468	devtest	wikibooks	how to play the violin/bowing
+1469	devtest	wikibooks	european history/revolution in france
+1470	devtest	wikibooks	european history/revolution in france
+1471	devtest	wikibooks	european history/revolution in france
+1472	devtest	wikibooks	european history/revolution in france
+1473	devtest	wikibooks	philippine history/phillipine american war
+1474	devtest	wikibooks	philippine history/phillipine american war
+1475	devtest	wikibooks	philippine history/phillipine american war
+1476	devtest	wikibooks	remembering the templars
+1477	devtest	wikibooks	remembering the templars
+1478	devtest	wikibooks	remembering the templars
+1479	devtest	wikibooks	history of technology/technological determism
+1480	devtest	wikibooks	history of technology/technological determism
+1481	devtest	wikibooks	history of technology/technological determism
+1482	devtest	wikibooks	history of technology/technological determism
+1483	devtest	wikibooks	history of technology/technological determism
+1484	devtest	wikibooks	history of technology/cultural determinism
+1485	devtest	wikibooks	history of technology/cultural determinism
+1486	devtest	wikibooks	costume history/byzantine
+1487	devtest	wikibooks	costume history/byzantine
+1488	devtest	wikibooks	costume history/byzantine
+1489	devtest	wikibooks	costume history/byzantine
+1490	devtest	wikibooks	costume history/gothic
+1491	devtest	wikibooks	costume history/gothic
+1492	devtest	wikibooks	costume history/gothic
+1493	devtest	wikibooks	costume history/gothic
+1494	devtest	wikibooks	sociology/agriculture
+1495	devtest	wikibooks	sociology/agriculture
+1496	devtest	wikibooks	sociology/agriculture
+1497	devtest	wikibooks	sociology/culture
+1498	devtest	wikibooks	sociology/culture
+1499	devtest	wikibooks	sociology/culture
+1500	devtest	wikibooks	sociology/culture
+1501	devtest	wikibooks	sociology/socialization
+1502	devtest	wikibooks	sociology/socialization
+1503	devtest	wikibooks	sociology/socialization
+1504	devtest	wikibooks	sociology/socialization
+1505	devtest	wikibooks	sociology/socialization
+1506	devtest	wikibooks	American education/technology (role)
+1507	devtest	wikibooks	American education/technology (role)
+1508	devtest	wikibooks	American education/technology (role)
+1509	devtest	wikibooks	American education/technology (role)
+1510	devtest	wikibooks	American education/forgotten half/Foster care
+1511	devtest	wikibooks	American education/forgotten half/Foster care
+1512	devtest	wikibooks	American education/forgotten half/Foster care
+1513	devtest	wikibooks	American education/forgotten half/Foster care
+1514	devtest	wikibooks	American education/forgotten half/Foster care
+1515	devtest	wikibooks	Communication theory/uses and gratifications
+1516	devtest	wikibooks	Communication theory/uses and gratifications
+1517	devtest	wikibooks	Communication theory/uses and gratifications
+1518	devtest	wikibooks	Communication theory/uses and gratifications
+1519	devtest	wikibooks	Communication theory/nonverbal comms
+1520	devtest	wikibooks	Communication theory/nonverbal comms
+1521	devtest	wikibooks	Communication theory/nonverbal comms
+1522	devtest	wikibooks	Communication theory/nonverbal comms
+1523	devtest	wikibooks	Paleoanthropology/Genetics
+1524	devtest	wikibooks	Paleoanthropology/Genetics
+1525	devtest	wikibooks	Paleoanthropology/Genetics
+1526	devtest	wikibooks	Paleoanthropology/Oldowan Period
+1527	devtest	wikibooks	Paleoanthropology/Oldowan Period
+1528	devtest	wikibooks	Paleoanthropology/Oldowan Period
+1529	devtest	wikibooks	Paleoanthropology/Oldowan Period
+1530	devtest	wikibooks	Paleoanthropology/Oldowan Period
+1531	devtest	wikibooks	Lucid Dreaming/Induction
+1532	devtest	wikibooks	Lucid Dreaming/Induction
+1533	devtest	wikibooks	Lucid Dreaming/Induction
+1534	devtest	wikibooks	Lucid Dreaming/Induction
+1535	devtest	wikibooks	Yoga/What_is_Yoga
+1536	devtest	wikibooks	Yoga/What_is_Yoga
+1537	devtest	wikibooks	Yoga/What_is_Yoga
+1538	devtest	wikibooks	Yoga/Yoga_Tales
+1539	devtest	wikibooks	Yoga/Yoga_Tales
+1540	devtest	wikibooks	Yoga/Yoga_Tales
+1541	devtest	wikibooks	Yoga/Yoga_Tales
+1542	devtest	wikibooks	The_Cold_War/Introduction
+1543	devtest	wikibooks	The_Cold_War/Introduction
+1544	devtest	wikibooks	The_Cold_War/Introduction
+1545	devtest	wikibooks	World_War_II/Battle_of_Poland
+1546	devtest	wikibooks	World_War_II/Battle_of_Poland
+1547	devtest	wikibooks	Warfare
+1548	devtest	wikibooks	Warfare
+1549	devtest	wikibooks	Warfare
+1550	devtest	wikibooks	Warfare
+1551	devtest	wikibooks	Warfare
+1552	devtest	wikibooks	Goats/Introduction
+1553	devtest	wikibooks	Goats/Introduction
+1554	devtest	wikibooks	Goats/Introduction
+1555	devtest	wikibooks	History_of_Rail_Transport/Early_Rail_Transportation
+1556	devtest	wikibooks	History_of_Rail_Transport/Early_Rail_Transportation
+1557	devtest	wikibooks	History_of_Rail_Transport/Early_Rail_Transportation
+1558	devtest	wikibooks	History_of_Rail_Transport/Early_Rail_Transportation
+1559	devtest	wikibooks	History_of_Rail_Transport/Early_Rail_Transportation
+1560	devtest	wikibooks	Transport/History
+1561	devtest	wikibooks	Transport/History
+1562	devtest	wikibooks	Transport/History
+1563	devtest	wikibooks	Environmental_theory_and_collection_of_ideas/Environmentalism_and_survival
+1564	devtest	wikibooks	Environmental_theory_and_collection_of_ideas/Environmentalism_and_survival
+1565	devtest	wikibooks	Environmental_theory_and_collection_of_ideas/Environmentalism_and_survival
+1566	devtest	wikibooks	American_Revolution/The_Declaration_of_Independence
+1567	devtest	wikibooks	American_Revolution/The_Declaration_of_Independence
+1568	devtest	wikibooks	American_Revolution/The_Declaration_of_Independence
+1569	devtest	wikibooks	American_Revolution/The_Declaration_of_Independence
+1570	devtest	wikibooks	American_Revolution/The_Declaration_of_Independence
+1571	devtest	wikibooks	Wikijunior:Dinosaurs/Extinction
+1572	devtest	wikibooks	Wikijunior:Dinosaurs/Extinction
+1573	devtest	wikibooks	Wikijunior:Dinosaurs/Extinction
+1574	devtest	wikibooks	Wikijunior:Dinosaurs/Extinction
+1575	devtest	wikibooks	Science/Radiography
+1576	devtest	wikibooks	Science/Radiography
+1577	devtest	wikibooks	Science/First Aid
+1578	devtest	wikibooks	Science/First Aid
+1579	devtest	wikibooks	Science/First Aid
+1580	devtest	wikibooks	Science/Parasitic Insects
+1581	devtest	wikibooks	Science/Parasitic Insects
+1582	devtest	wikibooks	Science/Parasitic Insects
+1583	devtest	wikibooks	Science/Disease
+1584	devtest	wikibooks	Science/Disease
+1585	devtest	wikibooks	Science/Disease
+1586	devtest	wikibooks	Science/Sexual Health
+1587	devtest	wikibooks	Science/Sexual Health
+1588	devtest	wikibooks	Science/Sexual Health
+1589	devtest	wikibooks	Science/Nature of Science
+1590	devtest	wikibooks	Science/Nature of Science
+1591	devtest	wikibooks	Science/Animal Behavior
+1592	devtest	wikibooks	Science/Animal Behavior
+1593	devtest	wikibooks	Science/Animal Behavior
+1594	devtest	wikibooks	Science/Animal Behavior
+1595	devtest	wikibooks	Science/Animal Behavior
+1596	devtest	wikibooks	Science/Animal Behavior
+1597	devtest	wikibooks	Science/General Biology
+1598	devtest	wikibooks	Science/General Biology
+1599	devtest	wikibooks	Science/General Biology
+1600	devtest	wikibooks	Science/General Biology
+1601	devtest	wikibooks	Science/General Biology
+1602	devtest	wikibooks	Science/Applied Ecology
+1603	devtest	wikibooks	Science/Applied Ecology
+1604	devtest	wikibooks	Science/Applied Ecology
+1605	devtest	wikibooks	Science/Applied Ecology
+1606	devtest	wikibooks	Science/Applied Ecology
+1607	devtest	wikibooks	Science/Applied Ecology
+1608	devtest	wikibooks	Fundamentals_of_Transportation/Introduction
+1609	devtest	wikibooks	Fundamentals_of_Transportation/Introduction
+1610	devtest	wikibooks	Fundamentals_of_Transportation/Introduction
+1611	devtest	wikibooks	Fundamentals_of_Transportation/Traffic_Flow
+1612	devtest	wikibooks	Fundamentals_of_Transportation/Traffic_Flow
+1613	devtest	wikibooks	Fundamentals_of_Transportation/Traffic_Flow
+1614	devtest	wikibooks	Fundamentals_of_Transportation/Traffic_Flow
+1615	devtest	wikibooks	Fundamentals_of_Transportation/Traffic_Flow
+1616	devtest	wikibooks	Bugs/Insects_Intro
+1617	devtest	wikibooks	Bugs/Insects_Intro
+1618	devtest	wikibooks	Bugs/Insects_Intro
+1619	devtest	wikibooks	Bugs/Insects_Intro
+1620	devtest	wikibooks	Solar_System/Solar_System
+1621	devtest	wikibooks	Solar_System/Solar_System
+1622	devtest	wikibooks	Solar_System/Solar_System
+1623	devtest	wikibooks	South_America/The_Amazon
+1624	devtest	wikibooks	South_America/The_Amazon
+1625	devtest	wikibooks	South_America/The_Amazon
+1626	devtest	wikibooks	South_America/The_Amazon
+1627	devtest	wikibooks	World_Heritage_Sites/Pyramids_of_Giza
+1628	devtest	wikibooks	World_Heritage_Sites/Pyramids_of_Giza
+1629	devtest	wikibooks	Europe/Vatican_City
+1630	devtest	wikibooks	Europe/Vatican_City
+1631	devtest	wikibooks	Europe/Vatican_City
+1632	devtest	wikibooks	Europe/Vatican_City
+1633	devtest	wikibooks	The_Elements/Periodic_Table
+1634	devtest	wikibooks	The_Elements/Periodic_Table
+1635	devtest	wikibooks	The_Elements/Periodic_Table
+1636	devtest	wikibooks	The_Elements/Mixtures
+1637	devtest	wikibooks	The_Elements/Mixtures
+1638	devtest	wikibooks	The_Elements/Mixtures
+1639	devtest	wikibooks	The_Elements/Overview
+1640	devtest	wikibooks	The_Elements/Overview
+1641	devtest	wikibooks	How_Things_Work/Pencil
+1642	devtest	wikibooks	How_Things_Work/Pencil
+1643	devtest	wikibooks	How_Things_Work/Pencil
+1644	devtest	wikibooks	How_Things_Work/Pencil
+1645	devtest	wikibooks	How_Things_Work/Nuclear_Bomb
+1646	devtest	wikibooks	How_Things_Work/Nuclear_Bomb
+1647	devtest	wikibooks	How_Things_Work/Nuclear_Bomb
+1648	devtest	wikibooks	Solar_System/Moon
+1649	devtest	wikibooks	Solar_System/Moon
+1650	devtest	wikibooks	Solar_System/Moon
+1651	devtest	wikibooks	Solar_System/Moon
+1652	devtest	wikibooks	Managing Groups & Teams/Motivation
+1653	devtest	wikibooks	Managing Groups & Teams/Motivation
+1654	devtest	wikibooks	Managing Groups & Teams/Motivation
+1655	devtest	wikibooks	Managing Groups & Teams/Motivation
+1656	devtest	wikibooks	Managing Groups & Teams/Leader Credibility
+1657	devtest	wikibooks	Managing Groups & Teams/Leader Credibility
+1658	devtest	wikibooks	Managing Groups & Teams/Leader Credibility
+1659	devtest	wikibooks	Managing Groups & Teams/Leader Credibility
+1660	devtest	wikibooks	Managing Groups & Teams/Leader Credibility
+1661	devtest	wikibooks	Managing Groups & Teams/Virtual Teams
+1662	devtest	wikibooks	Managing Groups & Teams/Virtual Teams
+1663	devtest	wikibooks	Managing Groups & Teams/Virtual Teams
+1664	devtest	wikibooks	Managing Groups & Teams/Virtual Teams
+1665	devtest	wikibooks	Managing Groups & Teams/Virtual Teams
+1666	devtest	wikibooks	Learning Theories/Organizational Learning
+1667	devtest	wikibooks	Learning Theories/Organizational Learning
+1668	devtest	wikibooks	Learning Theories/Organizational Learning
+1669	devtest	wikibooks	Learning Theories/Organizational Learning
+1670	devtest	wikibooks	Learning Theories/Organizational Learning
+1671	devtest	wikibooks	Cognitive Psycology and Neuroscience/Cognitive Neuropsychology
+1672	devtest	wikibooks	Cognitive Psycology and Neuroscience/Cognitive Neuropsychology
+1673	devtest	wikibooks	Cognitive Psycology and Neuroscience/Cognitive Neuropsychology
+1674	devtest	wikibooks	Cognitive Psycology and Neuroscience/Cognitive Neuropsychology
+1675	devtest	wikibooks	Cognitive Psycology and Neuroscience/Cognitive Neuropsychology
+1676	devtest	wikibooks	Cognitive Psycology and Neuroscience/Artificial Intelligence
+1677	devtest	wikibooks	Cognitive Psycology and Neuroscience/Artificial Intelligence
+1678	devtest	wikibooks	Cognitive Psycology and Neuroscience/Artificial Intelligence
+1679	devtest	wikibooks	Cognitive Psycology and Neuroscience/Artificial Intelligence
+1680	devtest	wikibooks	Cognitive Psycology and Neuroscience/Artificial Intelligence
+1681	devtest	wikibooks	Blended Learning/Field trips
+1682	devtest	wikibooks	Blended Learning/Field trips
+1683	devtest	wikibooks	Blended Learning/Field trips
+1684	devtest	wikibooks	Blended Learning/Field trips
+1685	devtest	wikibooks	Blended Learning/Blogging
+1686	devtest	wikibooks	Blended Learning/Blogging
+1687	devtest	wikibooks	Blended Learning/Blogging
+1688	devtest	wikibooks	Blended Learning/Blogging
+1689	devtest	wikibooks	Blended Learning/Blogging
+1690	devtest	wikivoyage	travel, tourism
+1691	devtest	wikivoyage	travel, tourism
+1692	devtest	wikivoyage	travel, tourism
+1693	devtest	wikivoyage	travel, tourism
+1694	devtest	wikivoyage	travel, tourism
+1695	devtest	wikivoyage	travel
+1696	devtest	wikivoyage	travel
+1697	devtest	wikivoyage	travel
+1698	devtest	wikivoyage	travel, history
+1699	devtest	wikivoyage	travel, history
+1700	devtest	wikivoyage	travel, geography
+1701	devtest	wikivoyage	travel, culture
+1702	devtest	wikivoyage	travel, culture
+1703	devtest	wikivoyage	travel, culture
+1704	devtest	wikivoyage	travel, culture
+1705	devtest	wikivoyage	travel, history
+1706	devtest	wikivoyage	travel, history
+1707	devtest	wikivoyage	travel, history
+1708	devtest	wikivoyage	travel, tourism
+1709	devtest	wikivoyage	travel, tourism
+1710	devtest	wikivoyage	travel, tourism
+1711	devtest	wikivoyage	travel, tourism
+1712	devtest	wikivoyage	travel, tourism
+1713	devtest	wikivoyage	travel, tourism
+1714	devtest	wikivoyage	travel, tourism
+1715	devtest	wikivoyage	travel
+1716	devtest	wikivoyage	travel
+1717	devtest	wikivoyage	travel
+1718	devtest	wikivoyage	travel
+1719	devtest	wikivoyage	travel
+1720	devtest	wikivoyage	travel, tourism
+1721	devtest	wikivoyage	travel, tourism
+1722	devtest	wikivoyage	travel, tourism
+1723	devtest	wikivoyage	travel, tourism
+1724	devtest	wikivoyage	travel, tourism
+1725	devtest	wikivoyage	Travel, History
+1726	devtest	wikivoyage	Travel, History
+1727	devtest	wikivoyage	Travel, History
+1728	devtest	wikivoyage	Travel, History
+1729	devtest	wikivoyage	Travel, History
+1730	devtest	wikivoyage	Travel, Geography
+1731	devtest	wikivoyage	Travel, Geography
+1732	devtest	wikivoyage	Travel, Geography
+1733	devtest	wikivoyage	Travel, Geography
+1734	devtest	wikivoyage	Travel, Geography
+1735	devtest	wikivoyage	Travel
+1736	devtest	wikivoyage	Travel
+1737	devtest	wikivoyage	Travel
+1738	devtest	wikivoyage	Travel
+1739	devtest	wikivoyage	Travel, Economy
+1740	devtest	wikivoyage	Travel, Economy
+1741	devtest	wikivoyage	Travel, Economy
+1742	devtest	wikivoyage	Travel, Economy
+1743	devtest	wikivoyage	Travel, History
+1744	devtest	wikivoyage	Travel, History
+1745	devtest	wikivoyage	Travel, History
+1746	devtest	wikivoyage	Travel, History
+1747	devtest	wikivoyage	Travel, History
+1748	devtest	wikivoyage	Travel, Sports
+1749	devtest	wikivoyage	Travel, Sports
+1750	devtest	wikivoyage	Travel, Sports
+1751	devtest	wikivoyage	Travel, Sports
+1752	devtest	wikivoyage	Travel, Economy
+1753	devtest	wikivoyage	Travel, Economy
+1754	devtest	wikivoyage	Travel, Economy
+1755	devtest	wikivoyage	Travel, Economy
+1756	devtest	wikivoyage	Travel, Economy
+1757	devtest	wikivoyage	Travel, Climate
+1758	devtest	wikivoyage	Travel, Climate
+1759	devtest	wikivoyage	Travel, Climate
+1760	devtest	wikivoyage	Travel, Climate
+1761	devtest	wikivoyage	Travel
+1762	devtest	wikivoyage	Travel
+1763	devtest	wikivoyage	Travel
+1764	devtest	wikivoyage	Travel
+1765	devtest	wikivoyage	Travel
+1766	devtest	wikivoyage	Travel
+1767	devtest	wikivoyage	Travel
+1768	devtest	wikivoyage	Travel
+1769	devtest	wikivoyage	Travel
+1770	devtest	wikivoyage	Travel
+1771	devtest	wikivoyage	Travel
+1772	devtest	wikivoyage	Travel
+1773	devtest	wikivoyage	Travel
+1774	devtest	wikivoyage	Travel
+1775	devtest	wikivoyage	Travel
+1776	devtest	wikivoyage	Travel
+1777	devtest	wikivoyage	Travel
+1778	devtest	wikivoyage	Travel
+1779	devtest	wikivoyage	Travel
+1780	devtest	wikivoyage	Travel
+1781	devtest	wikivoyage	Travel
+1782	devtest	wikivoyage	Travel
+1783	devtest	wikivoyage	Travel
+1784	devtest	wikivoyage	Travel
+1785	devtest	wikivoyage	Travel
+1786	devtest	wikivoyage	travel, accomodation
+1787	devtest	wikivoyage	travel, accomodation
+1788	devtest	wikivoyage	travel, accomodation
+1789	devtest	wikivoyage	travel, accomodation
+1790	devtest	wikivoyage	travel, accomodation
+1791	devtest	wikivoyage	travel, music
+1792	devtest	wikivoyage	travel, music
+1793	devtest	wikivoyage	travel, music
+1794	devtest	wikivoyage	travel, music
+1795	devtest	wikivoyage	travel
+1796	devtest	wikivoyage	travel
+1797	devtest	wikivoyage	travel
+1798	devtest	wikivoyage	travel
+1799	devtest	wikivoyage	travel
+1800	devtest	wikivoyage	travel, driving
+1801	devtest	wikivoyage	travel, driving
+1802	devtest	wikivoyage	travel, driving
+1803	devtest	wikivoyage	travel, driving
+1804	devtest	wikivoyage	travel, driving
+1805	devtest	wikivoyage	travel, wildlife
+1806	devtest	wikivoyage	travel, wildlife
+1807	devtest	wikivoyage	travel, wildlife
+1808	devtest	wikivoyage	travel, wildlife
+1809	devtest	wikivoyage	travel, wildlife
+1810	devtest	wikivoyage	travel, sports events
+1811	devtest	wikivoyage	travel, sports events
+1812	devtest	wikivoyage	travel, sports events
+1813	devtest	wikivoyage	travel, sports events
+1814	devtest	wikivoyage	travel, sports events
+1815	devtest	wikivoyage	Travel, Laundry
+1816	devtest	wikivoyage	Travel, Laundry
+1817	devtest	wikivoyage	Travel, Laundry
+1818	devtest	wikivoyage	Travel, Water
+1819	devtest	wikivoyage	Travel, Water
+1820	devtest	wikivoyage	Travel, Water
+1821	devtest	wikivoyage	Travel, Insects
+1822	devtest	wikivoyage	Travel, Insects
+1823	devtest	wikivoyage	Travel, Insects
+1824	devtest	wikivoyage	Shopping
+1825	devtest	wikivoyage	Shopping
+1826	devtest	wikivoyage	Travel
+1827	devtest	wikivoyage	Travel
+1828	devtest	wikivoyage	Travel
+1829	devtest	wikivoyage	Travel
+1830	devtest	wikivoyage	Food
+1831	devtest	wikivoyage	Food
+1832	devtest	wikivoyage	Food
+1833	devtest	wikivoyage	Food
+1834	devtest	wikivoyage	Food
+1835	devtest	wikivoyage	Food
+1836	devtest	wikivoyage	Food
+1837	devtest	wikivoyage	Food
+1838	devtest	wikivoyage	Food
+1839	devtest	wikivoyage	Food
+1840	devtest	wikivoyage	sports, horse riding
+1841	devtest	wikivoyage	sports, horse riding
+1842	devtest	wikivoyage	sports, horse riding
+1843	devtest	wikivoyage	sports, horse riding
+1844	devtest	wikivoyage	sports, horse riding
+1845	devtest	wikivoyage	sports
+1846	devtest	wikivoyage	sports
+1847	devtest	wikivoyage	sports
+1848	devtest	wikivoyage	sports
+1849	devtest	wikivoyage	sports
+1850	devtest	wikivoyage	sports
+1851	devtest	wikivoyage	sports
+1852	devtest	wikivoyage	sports
+1853	devtest	wikivoyage	sports
+1854	devtest	wikivoyage	sports
+1855	devtest	wikivoyage	travel
+1856	devtest	wikivoyage	travel
+1857	devtest	wikivoyage	travel
+1858	devtest	wikivoyage	travel
+1859	devtest	wikivoyage	travel, art
+1860	devtest	wikivoyage	travel, art
+1861	devtest	wikivoyage	travel, art
+1862	devtest	wikivoyage	travel, culture
+1863	devtest	wikivoyage	travel, culture
+1864	devtest	wikivoyage	travel, culture
+1865	devtest	wikivoyage	travel, culture
+1866	devtest	wikivoyage	travel, safety
+1867	devtest	wikivoyage	travel, safety
+1868	devtest	wikivoyage	travel, safety
+1869	devtest	wikivoyage	travel, safety
+1870	devtest	wikivoyage	travel, safety
+1871	devtest	wikivoyage	travel, safety
+1872	devtest	wikivoyage	travel, safety
+1873	devtest	wikivoyage	travel, safety
+1874	devtest	wikivoyage	travel, safety
+1875	devtest	wikivoyage	travel, safety
+1876	devtest	wikivoyage	travel, safety
+1877	devtest	wikivoyage	travel, safety
+1878	devtest	wikivoyage	travel, safety
+1879	devtest	wikivoyage	travel, safety
+1880	devtest	wikivoyage	travel, safety
+1881	devtest	wikivoyage	travel, safety
+1882	devtest	wikivoyage	travel, safety
+1883	devtest	wikivoyage	travel, safety
+1884	devtest	wikivoyage	travel, safety
+1885	devtest	wikivoyage	travel, safety
+1886	devtest	wikivoyage	travel, safety
+1887	devtest	wikivoyage	travel, safety
+1888	devtest	wikivoyage	travel, safety
+1889	devtest	wikivoyage	travel, safety
+1890	devtest	wikivoyage	travel, safety
+1891	devtest	wikivoyage	travel, culture
+1892	devtest	wikivoyage	travel, culture
+1893	devtest	wikivoyage	travel, culture
+1894	devtest	wikivoyage	travel, culture
+1895	devtest	wikivoyage	travel, culture
+1896	devtest	wikivoyage	travel, children
+1897	devtest	wikivoyage	travel, children
+1898	devtest	wikivoyage	travel, children
+1899	devtest	wikivoyage	travel, children
+1900	devtest	wikivoyage	travel, children
+1901	devtest	wikivoyage	Antartica, Travel
+1902	devtest	wikivoyage	Antartica, Travel
+1903	devtest	wikivoyage	Antartica, Travel
+1904	devtest	wikivoyage	Antartica, Travel
+1905	devtest	wikivoyage	Antartica, Travel
+1906	devtest	wikivoyage	Antartica, Travel
+1907	devtest	wikivoyage	Communication
+1908	devtest	wikivoyage	Communication
+1909	devtest	wikivoyage	Communication
+1910	devtest	wikivoyage	Communication
+1911	devtest	wikivoyage	Work, Travel
+1912	devtest	wikivoyage	Work, Travel
+1913	devtest	wikivoyage	Work, Travel
+1914	devtest	wikivoyage	Work, Travel
+1915	devtest	wikivoyage	sailing
+1916	devtest	wikivoyage	sailing
+1917	devtest	wikivoyage	sailing
+1918	devtest	wikivoyage	sailing
+1919	devtest	wikivoyage	sailing
+1920	devtest	wikivoyage	sailing
+1921	devtest	wikivoyage	sailing
+1922	devtest	wikivoyage	sailing
+1923	devtest	wikivoyage	sailing
+1924	devtest	wikivoyage	travel
+1925	devtest	wikivoyage	travel
+1926	devtest	wikivoyage	travel
+1927	devtest	wikivoyage	travel
+1928	devtest	wikivoyage	travel
+1929	devtest	wikivoyage	travel
+1930	devtest	wikivoyage	travel
+1931	devtest	wikivoyage	travel
+1932	devtest	wikivoyage	travel
+1933	devtest	wikivoyage	travel
+1934	devtest	wikivoyage	travel
+1935	devtest	wikivoyage	travel, history
+1936	devtest	wikivoyage	travel, history
+1937	devtest	wikivoyage	travel, history
+1938	devtest	wikivoyage	travel, history
+1939	devtest	wikivoyage	travel, history
+1940	devtest	wikivoyage	travel
+1941	devtest	wikivoyage	travel
+1942	devtest	wikivoyage	travel
+1943	devtest	wikivoyage	travel
+1944	devtest	wikivoyage	travel
+1945	devtest	wikivoyage	travel
+1946	devtest	wikivoyage	travel
+1947	devtest	wikivoyage	travel
+1948	devtest	wikivoyage	travel
+1949	devtest	wikivoyage	travel
+1950	devtest	wikivoyage	travel
+1951	devtest	wikivoyage	travel
+1952	devtest	wikivoyage	travel
+1953	devtest	wikivoyage	travel
+1954	devtest	wikivoyage	travel
+1955	devtest	wikivoyage	travel
+1956	devtest	wikivoyage	travel
+1957	devtest	wikivoyage	travel
+1958	devtest	wikivoyage	travel
+1959	devtest	wikivoyage	travel
+1960	devtest	wikivoyage	travel
+1961	devtest	wikivoyage	travel
+1962	devtest	wikivoyage	travel
+1963	devtest	wikivoyage	travel
+1964	devtest	wikivoyage	travel
+1965	devtest	wikivoyage	travel
+1966	devtest	wikivoyage	travel
+1967	devtest	wikivoyage	travel
+1968	devtest	wikivoyage	travel, cuisine
+1969	devtest	wikivoyage	travel, cuisine
+1970	devtest	wikivoyage	Language/German
+1971	devtest	wikivoyage	Language/German
+1972	devtest	wikivoyage	Language/German
+1973	devtest	wikivoyage	Language/Italian
+1974	devtest	wikivoyage	Language/Italian
+1975	devtest	wikivoyage	Language/Italian
+1976	devtest	wikivoyage	Language/Persian
+1977	devtest	wikivoyage	Language/Persian
+1978	devtest	wikivoyage	Language/Portuguese
+1979	devtest	wikivoyage	Language/Portuguese
+1980	devtest	wikivoyage	Natural wonders/Astronomy
+1981	devtest	wikivoyage	Natural wonders/Astronomy
+1982	devtest	wikivoyage	Natural wonders/Astronomy
+1983	devtest	wikivoyage	Natural wonders/Cherry Blossom
+1984	devtest	wikivoyage	Natural wonders/Cherry Blossom
+1985	devtest	wikivoyage	Natural wonders/Cherry Blossom
+1986	devtest	wikivoyage	Natural wonders/Botanical tourism
+1987	devtest	wikivoyage	Natural wonders/Botanical tourism
+1988	devtest	wikivoyage	Natural wonders/Botanical tourism in Singapore
+1989	devtest	wikivoyage	Natural wonders/Botanical tourism in Singapore
+1990	devtest	wikivoyage	Natural wonders/Beer Sheva
+1991	devtest	wikivoyage	Natural wonders/Beer Sheva
+1992	devtest	wikivoyage	Natural wonders/Waterways
+1993	devtest	wikivoyage	Natural wonders/Waterways
+1994	devtest	wikivoyage	Natural wonders/Waterways
+1995	devtest	wikivoyage	Reason to travel/Christmas and New Year
+1996	devtest	wikivoyage	Reason to travel/Christmas and New Year
+1997	devtest	wikivoyage	Reason to travel/Easter travel
+1998	devtest	wikivoyage	Reason to travel/Easter travel
+1999	devtest	wikivoyage	Reason to travel/Easter travel
+2000	devtest	wikivoyage	Natural wonders/Galapagos wildlife
+2001	devtest	wikivoyage	Natural wonders/Galapagos wildlife
+2002	devtest	wikivoyage	Natural wonders/Galapagos wildlife
+2003	devtest	wikivoyage	Natural wonders/Midnight sun
+2004	devtest	wikivoyage	Natural wonders/Midnight sun
+2005	devtest	wikivoyage	Natural wonders/Midnight sun
+2006	devtest	wikivoyage	Reason to travel/Working in Japan
+2007	devtest	wikivoyage	Reason to travel/Working in Japan
+2008	devtest	wikivoyage	Reason to travel/Working in Japan
+2009	devtest	wikivoyage	Reason to travel/Working in Japan

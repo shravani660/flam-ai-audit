@@ -1,0 +1,9 @@
+eng (eng_Latn): 2009 sentences, NFC changed 0 lines
+hin (hin_Deva): 2009 sentences, NFC changed 183 lines
+kan (kan_Knda): 2009 sentences, NFC changed 17 lines
+tam (tam_Taml): 2009 sentences, NFC changed 4 lines
+tel (tel_Telu): 2009 sentences, NFC changed 4 lines
+mal (mal_Mlym): 2009 sentences, NFC changed 12 lines
+ben (ben_Beng): 2009 sentences, NFC changed 1195 lines
+mar (mar_Deva): 2009 sentences, NFC changed 0 lines
+OK: parallel, 2009 sentences x 8 languages

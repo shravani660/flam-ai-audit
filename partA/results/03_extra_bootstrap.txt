@@ -1,0 +1,6 @@
+sample (10 lines, NOT parallel)    v0 ratio 5.89x   95% bootstrap CI [5.37, 6.44]   (width 1.07)
+FLORES (2009 lines)                v0 ratio 6.10x   95% bootstrap CI [6.05, 6.15]   (width 0.10)
+
+per-line v0 fertility on the sample (shows the spread a 10-line mean hides):
+  eng: [1.5, 1.29, 1.08, 1.14, 1.17, 1.38, 1.25, 1.5, 1.17, 1.18]
+  hin: [6.71, 7.62, 6.71, 7.29, 6.8, 8.0, 8.43, 8.75, 6.67, 7.5]

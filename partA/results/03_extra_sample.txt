@@ -1,0 +1,20 @@
+ 1 | Bengaluru International Airport handled record traffic in March.
+   | मुझे सुबह की चाय बहुत पसंद है।
+ 2 | The Quarterly Review meeting moved to Thursday.
+   | बेंगलुरु में आज हल्की बारिश हो रही है।
+ 3 | I bought this book yesterday from a small shop near MG Road.
+   | यह किताब मैंने कल ही खरीदी थी।
+ 4 | Children are playing cricket on the ground.
+   | हम अगले हफ़्ते मैसूर जा रहे हैं।
+ 5 | The train arrived exactly on time.
+   | क्या तुमने खाना खा लिया?
+ 6 | NASA and ISRO announced a joint mission update.
+   | ट्रेन ठीक समय पर पहुँची।
+ 7 | Please keep the books  in the cupboard.
+   | बच्चे मैदान में क्रिकेट खेल रहे हैं।
+ 8 | We are visiting Mysuru next week.
+   | मुझे थोड़ा पानी चाहिए।
+ 9 | Do you want tea or coffee?
+   | आज दफ़्तर में बहुत काम था।
+10 | The GPU cluster ran out of memory during the night job.
+   | किताबें  अलमारी में रखी हैं।

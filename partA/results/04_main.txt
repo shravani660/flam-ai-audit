@@ -1,0 +1,98 @@
+corpus: D:\Shravani Flam Project\submission\partA\corpus  sentences used: 2009 (line counts match; that content is parallel is ASSUMED, not checked)
+
+denominators per sentence (mean):
+lang     words   graph    cpts   bytes  bytes/graph
+eng       21.3   128.0   128.0   128.1         1.00
+hin       25.0    83.8   127.8   328.6         3.92
+kan       15.7    87.9   134.3   364.7         4.15
+tam       16.4    96.7   149.5   408.4         4.22
+tel       16.6    74.7   129.2   344.7         4.61
+mal       14.6    77.2   145.1   399.7         5.18
+ben       19.0    79.6   126.9   339.6         4.27
+mar       18.5    77.8   128.8   344.0         4.42
+
+=== tokenizer: gpt2  (vocab 50257)
+lang   tok/sent tok/word tok/graph tok/byte   premium vs eng          95% CI word-ratio   unk%
+eng        26.3     1.23     0.205    0.205            1.00x    [1.00, 1.00]      1.00x   0.00
+hin       195.4     7.81     2.331    0.595            7.44x    [7.37, 7.50]      6.34x   0.00
+kan       357.0    22.74     4.062    0.979           13.59x  [13.47, 13.70]     18.47x   0.00
+tam       406.8    24.84     4.209    0.996           15.48x  [15.35, 15.61]     20.16x   0.00
+tel       341.7    20.60     4.572    0.991           13.00x  [12.89, 13.11]     16.72x   0.00
+mal       398.0    27.28     5.157    0.996           15.15x  [15.02, 15.27]     22.15x   0.00
+ben       253.0    13.29     3.181    0.745            9.63x    [9.55, 9.71]     10.79x   0.00
+mar       205.6    11.13     2.641    0.598            7.83x    [7.76, 7.89]      9.04x   0.00
+  premium vs eng by FLORES domain:
+  lang     wikibooks    wikinews  wikivoyage
+  eng          1.00x       1.00x       1.00x
+  hin          7.48x       7.34x       7.49x
+  kan         13.61x      13.46x      13.69x
+  tam         15.45x      15.24x      15.76x
+  tel         13.00x      12.84x      13.18x
+  mal         15.26x      14.84x      15.35x
+  ben          9.57x       9.73x       9.59x
+  mar          7.80x       7.84x       7.84x
+
+=== tokenizer: hf:unsloth/Llama-3.2-1B  (vocab 128256)
+lang   tok/sent tok/word tok/graph tok/byte   premium vs eng          95% CI word-ratio   unk%
+eng        26.4     1.24     0.206    0.206            1.00x    [1.00, 1.00]      1.00x   0.00
+hin        66.6     2.66     0.795    0.203            2.53x    [2.51, 2.55]      2.16x   0.00
+kan       233.8    14.90     2.660    0.641            8.87x    [8.79, 8.94]     12.05x   0.00
+tam       201.2    12.28     2.081    0.493            7.63x    [7.57, 7.69]      9.94x   0.00
+tel       219.4    13.22     2.935    0.636            8.32x    [8.25, 8.39]     10.70x   0.00
+mal       235.7    16.15     3.053    0.590            8.94x    [8.86, 9.01]     13.07x   0.00
+ben       154.5     8.11     1.942    0.455            5.86x    [5.81, 5.90]      6.56x   0.00
+mar        73.5     3.98     0.945    0.214            2.79x    [2.77, 2.81]      3.22x   0.00
+  premium vs eng by FLORES domain:
+  lang     wikibooks    wikinews  wikivoyage
+  eng          1.00x       1.00x       1.00x
+  hin          2.53x       2.51x       2.54x
+  kan          8.89x       8.73x       8.99x
+  tam          7.62x       7.43x       7.85x
+  tel          8.32x       8.17x       8.47x
+  mal          9.01x       8.70x       9.12x
+  ben          5.83x       5.84x       5.91x
+  mar          2.77x       2.79x       2.80x
+
+=== tokenizer: hf:sarvamai/sarvam-1  (vocab 68096)
+lang   tok/sent tok/word tok/graph tok/byte   premium vs eng          95% CI word-ratio   unk%
+eng        30.5     1.43     0.239    0.238            1.00x    [1.00, 1.00]      1.00x   0.00
+hin        34.7     1.39     0.414    0.106            1.14x    [1.13, 1.15]      0.97x   0.00
+kan        37.5     2.39     0.427    0.103            1.23x    [1.22, 1.24]      1.67x   0.00
+tam        35.3     2.16     0.365    0.086            1.16x    [1.15, 1.16]      1.51x   0.00
+tel        35.3     2.13     0.473    0.103            1.16x    [1.15, 1.17]      1.49x   0.00
+mal        41.3     2.83     0.536    0.103            1.35x    [1.34, 1.36]      1.98x   0.00
+ben        34.0     1.79     0.427    0.100            1.11x    [1.11, 1.12]      1.25x   0.00
+mar        32.6     1.77     0.419    0.095            1.07x    [1.06, 1.08]      1.23x   0.00
+  premium vs eng by FLORES domain:
+  lang     wikibooks    wikinews  wikivoyage
+  eng          1.00x       1.00x       1.00x
+  hin          1.16x       1.10x       1.15x
+  kan          1.20x       1.24x       1.24x
+  tam          1.16x       1.14x       1.16x
+  tel          1.16x       1.15x       1.16x
+  mal          1.36x       1.33x       1.37x
+  ben          1.11x       1.11x       1.12x
+  mar          1.07x       1.06x       1.08x
+
+=== tokenizer: hf:FacebookAI/xlm-roberta-base  (vocab 250002)
+lang   tok/sent tok/word tok/graph tok/byte   premium vs eng          95% CI word-ratio   unk%
+eng        29.7     1.39     0.232    0.232            1.00x    [1.00, 1.00]      1.00x   0.00
+hin        37.3     1.49     0.445    0.113            1.25x    [1.25, 1.26]      1.07x   0.00
+kan        40.3     2.57     0.459    0.111            1.36x    [1.35, 1.37]      1.85x   0.00
+tam        40.0     2.44     0.414    0.098            1.35x    [1.34, 1.36]      1.76x   0.00
+tel        39.4     2.37     0.527    0.114            1.33x    [1.32, 1.34]      1.70x   0.00
+mal        40.8     2.80     0.529    0.102            1.37x    [1.36, 1.38]      2.01x   0.00
+ben        40.9     2.15     0.514    0.120            1.38x    [1.37, 1.39]      1.54x   0.00
+mar        36.2     1.96     0.465    0.105            1.22x    [1.21, 1.23]      1.41x   0.00
+  premium vs eng by FLORES domain:
+  lang     wikibooks    wikinews  wikivoyage
+  eng          1.00x       1.00x       1.00x
+  hin          1.24x       1.26x       1.27x
+  kan          1.34x       1.37x       1.36x
+  tam          1.32x       1.36x       1.36x
+  tel          1.31x       1.33x       1.34x
+  mal          1.35x       1.39x       1.39x
+  ben          1.37x       1.38x       1.38x
+  mar          1.19x       1.25x       1.22x
+
+wrote partA/results/main.csv

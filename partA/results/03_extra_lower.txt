@@ -1,0 +1,21 @@
+gpt2, English FLORES words (with leading space, as they appear mid-sentence):
+  lowercasing ADDS tokens to      1629 word occurrences
+  lowercasing REMOVES tokens in    214 word occurrences
+  no change                      41012 word occurrences
+
+  biggest contributors (word: tokens original -> lowercased):
+    'European': 1 -> 3
+    'British': 1 -> 3
+    'Olympic': 1 -> 3
+    'Atlantic': 1 -> 3
+    'Germany': 1 -> 3
+    'September': 1 -> 3
+    'Australia': 1 -> 3
+    'Africa': 1 -> 2
+    'Soviet': 1 -> 3
+    'German': 1 -> 2
+
+  sample-corpus English lines, gpt2 tokens original vs lowercased:
+      8 -> 9   The Quarterly Review meeting moved to Thursday.
+     10 -> 11  NASA and ISRO announced a joint mission update.
+     12 -> 13  The GPU cluster ran out of memory during the night job.

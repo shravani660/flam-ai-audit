@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Data artifacts
+partA/data/*.tar.gz
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db

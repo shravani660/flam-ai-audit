@@ -1,0 +1,12 @@
+control OK: defaults reproduce starter_kit/fertility.py exactly (pair=sample, tokenizer=gpt2)
+
+variant                                           eng t/w  hin t/w   ratio  d ratio    eng t/c hin t/c   ratio
+--------------------------------------------------------------------------------------------------------------
+baseline (original script)                          1.265    7.448    5.89    +0.0%      0.226   1.579    7.00
+no lowercasing                                      1.229    7.448    6.06    +2.9%      0.220   1.579    7.19
+split() instead of split(' ')                       1.283    7.598    5.92    +0.6%      0.226   1.579    7.00
+ratio of totals, not mean of lines                  1.253    7.403    5.91    +0.3%      0.221   1.583    7.16
+no NFC                                              1.265    7.448    5.89    +0.0%      0.226   1.579    7.00
+graphemes instead of code points                    1.265    7.448    5.89    +0.0%      0.226   2.450   10.86
+UTF-8 bytes instead of code points                  1.265    7.448    5.89    +0.0%      0.226   0.599    2.65
+all code fixes (lower off, ws, totals, graph)       1.231    7.525    6.11    +3.8%      0.214   2.441   11.39

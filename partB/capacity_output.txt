@@ -1,0 +1,91 @@
+spec parsed: {'params': 4200000000.0, 'layers': 28, 'q_heads': 24, 'kv_heads': 8, 'head_dim': 128, 'gpu_gb': 24.0, 'util': 0.92, 'overhead_gb': 1.6, 'max_len': 4096, 'bw': 300.0} 
+
+============================================================================== 
+B1  KV cache
+==============================================================================
+(a) KV bytes/token = 2 (K,V) x 28 layers x 8 KV heads x 128 head_dim x 2 B = 114,688 B = 112 KiB
+    (common mistake: using 24 Q heads instead of 8 KV heads -> 344,064 B, 3x too big)
+
+(b) reading '24 GB' and '1.6 GB' as GB = 1e9 B:
+    usable = 24 x 1,000,000,000 x 0.92 = 22.080e9 B
+    - weights 4.2e9 params x 2 B = 8.40e9 B
+    - overhead 1.6 x 1,000,000,000 = 1.600e9 B
+    = KV pool 12.080e9 B / 114,688 B = 105,329 tokens / 4096 = 25.72 concurrent 4096-token sequences
+
+(b) reading '24 GB' and '1.6 GB' as GiB = 2^30 B:
+    usable = 24 x 1,073,741,824 x 0.92 = 23.708e9 B
+    - weights 4.2e9 params x 2 B = 8.40e9 B
+    - overhead 1.6 x 1,073,741,824 = 1.718e9 B
+    = KV pool 13.590e9 B / 114,688 B = 118,497 tokens / 4096 = 28.93 concurrent 4096-token sequences
+
+check against the log -- implied KV capacity = tokens resident / kv_cache_util:
+  bs prompt  gen  resident tok  kv_util  implied capacity  = 4096-seqs
+  16    512  256        12,288     0.12           102,400         25.0
+  32    512  256        24,576     0.23           106,852         26.1
+  64    512  256        49,152     0.47           104,579         25.5
+   4   3584  512        16,384     0.16           102,400         25.0
+   8   3584  512        32,768     0.31           105,703         25.8
+  16   3584  512        65,536     0.62           105,703         25.8
+  24   3584  512        98,304     0.93           105,703         25.8
+first preemption appears at batch 32 x 4096 tokens = 131,072 tokens > capacity
+
+============================================================================== 
+B3  what does reported_tok_s count?
+==============================================================================
+  bs prompt  reported  gen-only  (p+g)/wall  match  goodput = n*gen/wall
+   1    512      70.2      23.4        70.2    yes                  23.4
+   2    512     132.3      44.1       132.3    yes                  44.1
+   4    512     261.0      87.0       261.0    yes                  87.0
+   8    512     495.4     165.2       495.5    yes                 165.2
+  16    512     883.2     294.5       883.4    yes                 294.5
+  32    512    1489.6     496.5      1489.5    yes                 496.5
+  64    512    2267.3     755.7      2267.2    yes                 755.7
+   4   3584     565.4      70.7       565.4    yes                  70.7
+   8   3584     902.6     112.8       902.7    yes                 112.8
+  16   3584    1311.4     163.9      1311.5    yes                 163.9
+  24   3584    1607.4     200.9      1607.3    yes                 200.9
+  32   3584    1384.0     173.0      1383.9    yes                 173.0
+  48   3584    1298.5     162.3      1298.5    yes                 162.3
+-> reported_tok_s = num_requests x (prompt_len + gen_len) / wall_clock_s in every row:
+   it counts PROMPT tokens as throughput.
+
+batch-24 long-prompt goodput:
+  way 1 (counts / wall clock): 24 x 512 / 61.16 s = 200.9 gen tok/s
+  way 2 (latency columns): 24 concurrent seqs / ITL 96.07 ms = 249.8 gen tok/s (steady-state decode only)
+        per-request time from TTFT + 511 x ITL = 49.59 s vs wall 61.16 s -> 11.6 s of the run is not decode (prefill queueing/ramp)
+
+report's batch-16 comparison: reported 883.2 (short) vs 1311.4 (long) -> 'long is better'
+  goodput: short 294.5 vs long 163.9 gen tok/s -> short prompts produce 1.80x MORE output tokens/s
+report's 'batch 48 -> ~3200 tok/s': the log HAS a batch-48 row: reported 1298.5, goodput 162.3
+
+============================================================================== 
+B2  long-context sweep (prompt 3584)
+==============================================================================
+  bs  wall s  reported  goodput  gp/seq   ttft    itl  e2e95 s  preempt    kv  512*itl s non-decode s
+   4   28.98     565.4     70.7   17.67    483   51.3     32.7        0  0.16       26.3          2.7
+   8   36.30     902.6    112.8   14.10    519   62.3     40.0        0  0.31       31.9          4.4
+  16   49.97    1311.4    163.9   10.25    498   77.2     54.6        0  0.62       39.5         10.4
+  24   61.16    1607.4    200.9    8.37    500   96.1     69.2        0  0.93       49.2         12.0
+  32   94.71    1384.0    173.0    5.41    637  101.8     97.5        7  0.97       52.1         42.6
+  48  151.41    1298.5    162.3    3.38    955  100.0    105.4       23  0.97       51.2        100.2
+
+linear fit, no-preemption long rows: ITL_ms = 43.3 + 0.568 x (resident KV k-tokens)
+  slope implies each extra KV token costs 568 ns/step -> 202 GB/s effective KV read bandwidth (peak 300)
+  intercept 43.3 ms vs weights-only floor 28.0 ms (8.4 GB / 300 GB/s)
+
+PROPOSED: max_num_seqs=24 (admission cap below the ~25.7-seq KV limit)
+  batch 32: waves [24, 8.0] -> predicted wall 97.5 s (measured 94.71), goodput 168.1 vs 173.0 (-3%), preemptions 0
+  batch 48: waves [24, 24] -> predicted wall 122.3 s (measured 151.41), goodput 200.9 vs 162.3 (+24%), preemptions 0
+
+ALTERNATIVE: kv_cache_dtype=fp8 -> KV bytes/token halves
+  57,344 B/token -> 210,658 tokens -> 51.4 concurrent 4096-seqs (batch 48 fits, 0 preemptions)
+  ITL model with half the KV slope: batch 48 ITL ~ 96 ms; prefill ~6,117 tok/s (avg of no-preempt rows)
+  predicted wall ~ 77 s -> goodput ~ 319 gen tok/s vs measured 162  (rough: assumes fp8 KV read cost = half of fp16)
+
+============================================================================== 
+data-quality checks
+==============================================================================
+e2e_ms_p95 > wall_clock_s in 12/13 rows (e.g. bs1: e2e p95 12.86 s > whole run 10.94 s).
+  If all requests are submitted at t=0, a request cannot take longer than the run.
+  -> e2e is measured on a different clock (likely client-side incl. connection/queue).
+  I do not use e2e_ms_p95 in any derivation.

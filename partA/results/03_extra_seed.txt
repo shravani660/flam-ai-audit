@@ -1,0 +1,5 @@
+lines of fertility.py mentioning 'random': [21, 25]  (import + seed only, never called)
+seed 1337: hin is 5.89x the fertility of eng (worse tokenization)
+seed    0: hin is 5.89x the fertility of eng (worse tokenization)
+seed   42: hin is 5.89x the fertility of eng (worse tokenization)
+distinct outputs across seeds: 1  -> seed is dead code, harmless

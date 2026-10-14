@@ -1,0 +1,25 @@
+--- gpt2
+lang   lines changed  tokens raw  tokens NFC    delta
+hin              183      392056      392516   +0.12%
+ben             1195      505721      508346   +0.52%
+kan               17      717228      717138   -0.01%
+mal               12      799610      799562   -0.01%
+--- hf:unsloth/Llama-3.2-1B
+lang   lines changed  tokens raw  tokens NFC    delta
+hin              183      133906      133872   -0.03%
+ben             1195      305889      310313   +1.45%
+kan               17      469719      469659   -0.01%
+mal               12      473462      473430   -0.01%
+--- hf:sarvamai/sarvam-1
+lang   lines changed  tokens raw  tokens NFC    delta
+hin              183       70516       69760   -1.07%
+ben             1195       78309       68319  -12.76%
+kan               17       75465       75378   -0.12%
+mal               12       83070       83051   -0.02%
+
+code points removed by NFC (top 5, count = lines):
+   1139  U+09DF BENGALI LETTER YYA
+    237  U+09DC BENGALI LETTER RRA
+     78  U+095B DEVANAGARI LETTER ZA
+     77  U+095C DEVANAGARI LETTER DDDHA
+     37  U+095E DEVANAGARI LETTER FA
